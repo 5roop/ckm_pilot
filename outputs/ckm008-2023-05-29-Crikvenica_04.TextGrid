@@ -1,0 +1,190 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 495.828
+tiers? <exists>
+size = 1
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "miciprinc"
+        xmin = 0
+        xmax = 495.828
+        intervals: size = 44
+            intervals [1]:
+                xmin = 0.031
+                xmax = 21.901
+                text = " I tako da imate dičice ke roditelji va nošnji, je ne more hodit, nosi pod ruku, on je obučen va nošnju, ali nosi to dite ili ded ili baba ili već ki, tako da se nastoji sačuvat i stvarno u zadnje vrime se jako puno."
+            intervals [2]:
+                xmin = 22.492
+                xmax = 34.405
+                text = " Noš nji obnovilo... Ja ne bin znala reć, to bi znala džuđica va muzeju, ali znan kad je šime strikoman"
+            intervals [3]:
+                xmin = 34.405
+                xmax = 34.928
+                text = " Ile giga!"
+            intervals [4]:
+                xmin = 41.189
+                xmax = 49.339
+                text = " U stare, onda je... mislin da je moj tata bil rekav da je kot da se dan sto... ali ne moren reć."
+            intervals [5]:
+                xmin = 57.625
+                xmax = 58.975
+                text = " Ča muške i ča ženske?"
+            intervals [6]:
+                xmin = 58.975
+                xmax = 61.928
+                text = " A možnje bi rekli da je neka razlika među nošnjami."
+            intervals [7]:
+                xmin = 61.928
+                xmax = 62.485
+                text = " Da."
+            intervals [8]:
+                xmin = 62.485
+                xmax = 70.164
+                text = " Da, va Beloj nošnji su... mahno su to bile divojke."
+            intervals [9]:
+                xmin = 71.868
+                xmax = 85.857
+                text = " A ovo drugo se nosilo svakodnevno, ča bin reć, bilo ki, jer kad je bil va mojoj mladosti, kad je niki biv rad bekanu, onda je to bila djivojka."
+            intervals [10]:
+                xmin = 86.684
+                xmax = 117.7
+                text = " A črna rova ima dva, ča ja znan, kako bi reć, modaliteta. To je črna rova sa črljenin obrudljena, črljene kurdele, kas je obrudljen gornji del prsu, sa črl... to je ta črna roba naša, prekrasna, a va črnoj robi to su bile... nikada se to zvalo..."
+            intervals [11]:
+                xmin = 121.902
+                xmax = 123.269
+                text = " SARS."
+            intervals [12]:
+                xmin = 123.809
+                xmax = 126.543
+                text = " Sanad se to subile baš radmero."
+            intervals [13]:
+                xmin = 126.543
+                xmax = 144.228
+                text = " I tu nisu bile košulje subele sa čipkun heklane i oko vrata i oko rukavih. Međutin, to su bile bez čipke i vejin izraz. To su treje."
+            intervals [14]:
+                xmin = 148.531
+                xmax = 149.847
+                text = " Ovo drugo je..."
+            intervals [15]:
+                xmin = 150.404
+                xmax = 180.155
+                text = " Plava se j nosila ko plava, črljeni koralji su bili na simi nošnjami, to mora bit, črljeni koral, i bati va uši, to su naše starinske račine, zlatne, te su se isto bile zgubile i onda je, nigdi šezdesetih let pasanoga vika, jenaš tata... a to se j naseđivalo..."
+            intervals [16]:
+                xmin = 180.273
+                xmax = 181.488
+                text = " M-m-m..."
+            intervals [17]:
+                xmin = 181.673
+                xmax = 186.77
+                text = " Prva, kako ću reć, najstarija vnuka je dobivala te bataleje."
+            intervals [18]:
+                xmin = 187.985
+                xmax = 221.279
+                text = " u pravilu ili najstari jahćer, ovisno ča i ki koga imel. I ja san imela... dobila od moje bake po tati te zlatne bati jer san ja bila prva. I onda je moj tata šestdesetih let dal te... dogovorel se njin zlataron va Zagrebu i dalje moje bati da se po njimi naprave ovaj... odljevi i onda su pozlačeni bati da naskan gotovo svi imaju. Svi imaju i jedan zlatar vano von dela."
+            intervals [19]:
+                xmin = 221.279
+                xmax = 224.941
+                text = " Nov je an ske batio originalne."
+            intervals [20]:
+                xmin = 225.211
+                xmax = 236.062
+                text = " A ove su pozlačene. To je bilo... baš je to bilo lipo za vidit jenena. Jedanput to leto je kolo bilo..."
+            intervals [21]:
+                xmin = 236.062
+                xmax = 280.898
+                text = " Z batimi, a ja san ostala bez mojih batih, odnosno iman jih spravne, su međutin gotovo pa su unišćene zato jer je zlatar kad je delal odljev, je jako nepažjivo delal, tako da kad jih je sastavil nazada, jer oni su sastavljeni od dvi polovice, od dvi polovice, i ta gornji del i ta bat, po komu se i zove bat, dolika, jako neprecizno, tako da one su ostale samo za uspomenut neupotrebljive su. Evo, to je ča se tiče batih i sad je reč začaljene koralji sa neklanom. I mislin da je to"
+            intervals [22]:
+                xmin = 280.898
+                xmax = 294.786
+                text = " E da, da, i va prsih, znači u boljen delu između košulje i kasa toga prsuka, dolazi mala gora. Se to poli nazove to šimšir."
+            intervals [23]:
+                xmin = 299.528
+                xmax = 301.013
+                text = " Ne preda se..."
+            intervals [24]:
+                xmin = 310.548
+                xmax = 326.545
+                text = " Dostojanstvena. Ni bogata, ali je prekrasna. Kad to rečen, onda mislin i na se ove...na širen podlučju Hrvatskog primorja. Te črno-bele su"
+            intervals [25]:
+                xmin = 328.402
+                xmax = 328.858
+                text = " Preziv."
+            intervals [26]:
+                xmin = 330.899
+                xmax = 339.1
+                text = " A da li postojala ka razlika, recimo, va frizuri? Dao se plela kosa kod divojčic, a dao su starije žene..."
+            intervals [27]:
+                xmin = 339.1
+                xmax = 348.922
+                text = " Miš ni te vaobičaju. Da. Sa ta nošnja ima, odnosno, novjanske nošnje, krasi, rubac..."
+            intervals [28]:
+                xmin = 348.922
+                xmax = 359.081
+                text = " ki se po posebnom postupku, da rečem, veže na način da se sa..."
+            intervals [29]:
+                xmin = 360.768
+                xmax = 361.561
+                text = " o liniji"
+            intervals [30]:
+                xmin = 362.945
+                xmax = 364.683
+                text = " A, čura je ziv."
+            intervals [31]:
+                xmin = 364.683
+                xmax = 366.505
+                text = " I znači, jer i cjami niko... Špenatno!"
+            intervals [32]:
+                xmin = 372.074
+                xmax = 372.58
+                text = " Si."
+            intervals [33]:
+                xmin = 374.217
+                xmax = 385.321
+                text = " na beloj, nošnji, plavoj i črljenoj, a sarze, te ča su bile radne, ili su imele"
+            intervals [34]:
+                xmin = 386.148
+                xmax = 401.048
+                text = " ili su imele va glavi rožicu, ali najviše su sarce vezane uz, to se poli navzovema, hramica, a to je rubac,"
+            intervals [35]:
+                xmin = 401.048
+                xmax = 405.065
+                text = " prokutast ki se vezalo ku glave samo ovako."
+            intervals [36]:
+                xmin = 407.748
+                xmax = 410.127
+                text = " I pletenja ništa postoje."
+            intervals [37]:
+                xmin = 410.127
+                xmax = 410.903
+                text = " Niš posne."
+            intervals [38]:
+                xmin = 417.89
+                xmax = 418.362
+                text = " Lino."
+            intervals [39]:
+                xmin = 419.577
+                xmax = 426.243
+                text = " Recite mi, ki se blagdan kad ste vi bili dite najviše stova? Dalo je to bil božić, vazam ili neč..."
+            intervals [40]:
+                xmin = 427.458
+                xmax = 428.724
+                text = " Vamo je vrime..."
+            intervals [41]:
+                xmin = 431.339
+                xmax = 432.368
+                text = " Sa ču reć?"
+            intervals [42]:
+                xmin = 432.976
+                xmax = 435.777
+                text = " Sa ću reć ali ovaj."
+            intervals [43]:
+                xmin = 437.245
+                xmax = 450.644
+                text = " Nisu se blagdani crkveni poštivali. Va našoj familiji, ja san već prije uvodno rekla, ne znajuć da ćete me to pitat, da smo mi po župi."
+            intervals [44]:
+                xmin = 450.644
+                xmax = 495.97
+                text = " I da je naša familija bila crkveno orijentirana. Mi smo bili oni ki su lizali oltari, ča bi se po starinsku reklo, ali svi događaji ki su bili vezani uz božić, uz vazan, uz maše zapokojne, uz vjenčanja, uz te nekakove specijalne prigode va životu smo obavljali. A ča se tiče toga ča se j slavilo, općenito, to je onda bilo prvi maj dvajsdeveti jedanajsti novoleto i to je bilo to."

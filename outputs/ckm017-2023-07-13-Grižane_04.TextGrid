@@ -1,0 +1,362 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 586.354
+tiers? <exists>
+size = 1
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "miciprinc"
+        xmin = 0
+        xmax = 586.354
+        intervals: size = 87
+            intervals [1]:
+                xmin = 6.427
+                xmax = 25.579
+                text = " A naše okolici zapravo jedini sačuvali ono kako su, bar ja iman takov dojan, kako su i negda bili. Da, da, da. Oni su ostali. Da, no da, ta njihova, da njihovo to čin grđi tin više i da čogod nađeš doma staro da staviš na se i, bad re,"
+            intervals [2]:
+                xmin = 26.761
+                xmax = 29.866
+                text = " I to se prenosi baš na mladje. Kod vas ima dosta i dece."
+            intervals [3]:
+                xmin = 30.608
+                xmax = 35.924
+                text = " A da s tin da opiti ti morda neki autohtoni, ako bi se reklo su ti zbrda zdova."
+            intervals [4]:
+                xmin = 36.616
+                xmax = 39.839
+                text = " A ni se baš tako blače kako san nigda maškrala."
+            intervals [5]:
+                xmin = 40.413
+                xmax = 43.349
+                text = " A sad, ne znan, ova centralna glazba, to su deći"
+            intervals [6]:
+                xmin = 44.463
+                xmax = 50.133
+                text = " od srednje škole pa, recimo, dok se no žene, tako je to nika tradicija od prije, prva se dosta listo minje. "
+            intervals [7]:
+                xmin = 51.061
+                xmax = 52.884
+                text = " On ni misin da se ole."
+            intervals [8]:
+                xmin = 58.891
+                xmax = 63.768
+                text = " Prije ni bilo tako te jedne glazbe, nego je sako selo imelo svoju glazbu."
+            intervals [9]:
+                xmin = 64.578
+                xmax = 71.784
+                text = " A, jednostav, nasad ne ište tulko ljudi da bi sad se zi sih sel skupi dvajse dećkiva. Prije je sako selo imelo dvajse dećkiva."
+            intervals [10]:
+                xmin = 72.762
+                xmax = 74.601
+                text = " A mala glazba, to su dva ždica."
+            intervals [11]:
+                xmin = 75.007
+                xmax = 77.032
+                text = " Osnovna škola Prijete Centra."
+            intervals [12]:
+                xmin = 90.498
+                xmax = 111.102
+                text = " I jako dobri je tamburač od drugih. Kolko vidimo, u zadnje vrime isto su i harmonikaši."
+            intervals [13]:
+                xmin = 111.575
+                xmax = 116.3
+                text = " Prestala san zato ča mi je većina društa prestala svirat i onda je jednostavno neprkuva."
+            intervals [14]:
+                xmin = 116.317
+                xmax = 120.89
+                text = " Mi ni bilo tulko interesantno. Nida nisan voleva svirat."
+            intervals [15]:
+                xmin = 121.092
+                xmax = 124.805
+                text = " Ni to samo je sviranje, nego i nadruženje. Brije probe poslje probe..."
+            intervals [16]:
+                xmin = 125.243
+                xmax = 128.146
+                text = " koncerti, nekako kad... kad... non, nisam..."
+            intervals [17]:
+                xmin = 128.652
+                xmax = 130.863
+                text = " Dobri su sjani, nego jenostanno."
+            intervals [18]:
+                xmin = 131.217
+                xmax = 134.457
+                text = " Tako kad je prošla većina društva, onda san jast nekako zgubila vodu."
+            intervals [19]:
+                xmin = 135.166
+                xmax = 137.579
+                text = " A onda kad je trenula ta škola, onda..."
+            intervals [20]:
+                xmin = 138.018
+                xmax = 146.844
+                text = " Kad san bila zapolne va škode nismu laho dit pa onda probne saki drugit jedan pa ti se onda nekako zgubiš navih kuda greš pa se manje i onda..."
+            intervals [21]:
+                xmin = 147.502
+                xmax = 151.737
+                text = " Da, a nema kasi... Osan let je isto dosta, pa..."
+            intervals [22]:
+                xmin = 158.251
+                xmax = 160.951
+                text = " Naprimer, moj brat je sedan lista i to san ć rekla."
+            intervals [23]:
+                xmin = 161.491
+                xmax = 166.199
+                text = " A on je dosta više putoval, sad ne znan da je to vedano financijski..."
+            intervals [24]:
+                xmin = 166.773
+                xmax = 169.844
+                text = " Davamo je vrimne. Ja se sjećam da smo bili samo od..."
+            intervals [25]:
+                xmin = 170.232
+                xmax = 173.455
+                text = " to se tiče inozemstva va Sloveniji dva dana."
+            intervals [26]:
+                xmin = 174.637
+                xmax = 176.83
+                text = " Lovačko je tri dana."
+            intervals [27]:
+                xmin = 177.86
+                xmax = 179.024
+                text = " Havo da..."
+            intervals [28]:
+                xmin = 179.581
+                xmax = 181.285
+                text = " To je bilo vano lokalno."
+            intervals [29]:
+                xmin = 185.993
+                xmax = 187.883
+                text = " Mislin dok se jabe..."
+            intervals [30]:
+                xmin = 188.896
+                xmax = 189.976
+                text = " da se to robin mi se čine da manka."
+            intervals [31]:
+                xmin = 206.75
+                xmax = 209.77
+                text = " I magovi, i glazba, a karbi rate. "
+            intervals [32]:
+                xmin = 209.872
+                xmax = 210.986
+                text = " Vjerovatno je to zanimljivo."
+            intervals [33]:
+                xmin = 211.728
+                xmax = 213.146
+                text = " A dobro, to je..."
+            intervals [34]:
+                xmin = 217.398
+                xmax = 221.364
+                text = " Ja san oviko znan se pod obitanjem i je brat va udrugi, tako da..."
+            intervals [35]:
+                xmin = 222.14
+                xmax = 225.262
+                text = " To je godje ča ja njiga pitan. Ča se zna? Ča se zna? Ča..."
+            intervals [36]:
+                xmin = 225.683
+                xmax = 233.986
+                text = " Mi smo specifični po tomu da se vazadnji čast delamo. Tako da, već vidin da ne znan brebirci, criklenićan i znadu, već udavno ča će bit. "
+            intervals [37]:
+                xmin = 234.357
+                xmax = 235.791
+                text = " A mi još ni ono ni ideje."
+            intervals [38]:
+                xmin = 239.825
+                xmax = 241.04
+                text = " udanje soldi,"
+            intervals [39]:
+                xmin = 241.546
+                xmax = 251.546
+                text = " Pa onda i ti članovi udruge ki sa strane pripomogne i delaju te maske. Uviki to nose na brzinu, ali na kraju ča je stvarno barem jamisena i si komentiraju da bude lipa."
+            intervals [40]:
+                xmin = 251.546
+                xmax = 257.611
+                text = " Tako da je va to nešto ono ča i smišno malo. Saku letu to se navrahne. A na kraj..."
+            intervals [41]:
+                xmin = 264.952
+                xmax = 267.652
+                text = " Bite mi je sako lito lipa!"
+            intervals [42]:
+                xmin = 267.989
+                xmax = 269.221
+                text = " Ovo leto smo bili..."
+            intervals [43]:
+                xmin = 270.098
+                xmax = 271.786
+                text = " Pošto je puno tih harmonij kao što..."
+            intervals [44]:
+                xmin = 291.04
+                xmax = 292.255
+                text = " I ne zan ki je blašto."
+            intervals [45]:
+                xmin = 292.306
+                xmax = 296.744
+                text = " Te švili, onda opet ovi zu druge su malo to dorađivali lipi"
+            intervals [46]:
+                xmin = 296.761
+                xmax = 299.174
+                text = " ča je trebalo te tipke crtalita."
+            intervals [47]:
+                xmin = 300.845
+                xmax = 303.511
+                text = " Sejeli zna dove ako je nešto kontaciran."
+            intervals [48]:
+                xmin = 315.982
+                xmax = 318.513
+                text = " Zadnju noć?"
+            intervals [49]:
+                xmin = 318.867
+                xmax = 326.849
+                text = " Ja sam kako san blizu centra, onda tamo bude zvučnik i muzika i to stvarno po celu noć se čuje muzika kako se deva tamo."
+            intervals [50]:
+                xmin = 327.524
+                xmax = 328.638
+                text = " Još san od rana biv..."
+            intervals [51]:
+                xmin = 330.342
+                xmax = 337.159
+                text = " I onda ta dan isto šminkan je, uvijek bude rano, pa ja pošto san blizu, idem ranije se našminkat pa se vratin doma."
+            intervals [52]:
+                xmin = 337.818
+                xmax = 340.383
+                text = " Bude veli reto, mi se ne da, i niš onda..."
+            intervals [53]:
+                xmin = 341.058
+                xmax = 345.716
+                text = " Nako je isto manje od tog ričkog karnevala isto najzanimljiv je množda pudori."
+            intervals [54]:
+                xmin = 345.749
+                xmax = 349.461
+                text = " I ne draje dugo, ali uvijek se svira i pila pa je onda zanimljivo."
+            intervals [55]:
+                xmin = 350.474
+                xmax = 351.841
+                text = " Divan ni, prst aj..."
+            intervals [56]:
+                xmin = 353.579
+                xmax = 356.077
+                text = " Kor vas se isto palime su puste."
+            intervals [57]:
+                xmin = 357.646
+                xmax = 360.616
+                text = " On sakolet dojma drugo ime ili je uvik."
+            intervals [58]:
+                xmin = 374.487
+                xmax = 376.63
+                text = " Da, čita se zanim to."
+            intervals [59]:
+                xmin = 376.985
+                xmax = 379.364
+                text = " Znan me da je to isto od mesta do mesta rukće."
+            intervals [60]:
+                xmin = 383.92
+                xmax = 386.098
+                text = " je da ste isti čovik ili više njih."
+            intervals [61]:
+                xmin = 386.553
+                xmax = 388.831
+                text = " pa da, sad se"
+            intervals [62]:
+                xmin = 389.135
+                xmax = 392.864
+                text = " prominilo, malo je rastvarno, a i znan da je..."
+            intervals [63]:
+                xmin = 393.978
+                xmax = 395.142
+                text = " Ne znan koliko ima leda."
+            intervals [64]:
+                xmin = 396.02
+                xmax = 400.036
+                text = " do sad čitao. I su rekli da bi se već su stariji ljudi pa ni se ne dali."
+            intervals [65]:
+                xmin = 408.777
+                xmax = 410.448
+                text = " Kali je pišli. I pišla."
+            intervals [66]:
+                xmin = 420.995
+                xmax = 426.716
+                text = " bude dvajseta gruv. Meni osobno je ta griški karneval dražen vorički."
+            intervals [67]:
+                xmin = 427.525
+                xmax = 431.912
+                text = " Jer nekako je ča zan doma je pa mi je to dono zanimljiv je."
+            intervals [68]:
+                xmin = 432.402
+                xmax = 437.144
+                text = " I tad imamo običaj, moje društvo, ja se obuć tako ča sebi, čak po staru."
+            intervals [69]:
+                xmin = 438.224
+                xmax = 442.274
+                text = " Onda greno san z brda z dola... I ča onda ustavite nasen?"
+            intervals [70]:
+                xmin = 443.641
+                xmax = 447.775
+                text = " Pa je sako leto biti malo iskupljan tu robu aš više..."
+            intervals [71]:
+                xmin = 448.231
+                xmax = 453.361
+                text = " Retko ki ženske se oblače go ča se ženske nigda oblačile. A više... ja ne poznan..."
+            intervals [72]:
+                xmin = 458.879
+                xmax = 466.962
+                text = " Tako da sad san biti tek nakon par let skupila nešto da morem nosit. Prije to bi bilo ča bi mogla spominirat, da zglej, tako da je..."
+            intervals [73]:
+                xmin = 467.283
+                xmax = 468.008
+                text = " nešto sta..."
+            intervals [74]:
+                xmin = 468.835
+                xmax = 472.682
+                text = " Ali je guvano tako niki stari šos, manteru, bac na glavu..."
+            intervals [75]:
+                xmin = 481.627
+                xmax = 483.804
+                text = " je obavezno rabit na glavi tabletica."
+            intervals [76]:
+                xmin = 484.242
+                xmax = 486.655
+                text = " To ne ponači da se ne vidi, da se ne vidi liktar."
+            intervals [77]:
+                xmin = 486.976
+                xmax = 494.469
+                text = " Znači tabletiće, aš mezagledu, nisi činjica na nekih slikah vidjela čak kotrinu da stavljaju. Pa mori to, da to možda i zgodnje..."
+            intervals [78]:
+                xmin = 499.362
+                xmax = 500.729
+                text = " Baš niste nekuš tada..."
+            intervals [79]:
+                xmin = 502.096
+                xmax = 504.914
+                text = " Ali to je zanimljivo jer to se niki ne pozna."
+            intervals [80]:
+                xmin = 505.403
+                xmax = 507.833
+                text = " da mu šoplastina i onda..."
+            intervals [81]:
+                xmin = 508.323
+                xmax = 510.702
+                text = " Biti do zene, tragrižan, tek se ta..."
+            intervals [82]:
+                xmin = 521.468
+                xmax = 525.147
+                text = " A zna se tako neki obuć lan, nan, tako kad..."
+            intervals [83]:
+                xmin = 525.586
+                xmax = 544.723
+                text = " Kad ide s tim iz brda zdola pa tako ga staru ženu se obuđe. Ali, čak ne tuliko sam da zadnje vrime. Morda je više prije bilo da je med namo. A pred teme malo kad ste bili dite, dao ste, recimo, da mi smo, nama je tu se blizu i more i se..."
+            intervals [84]:
+                xmin = 545.009
+                xmax = 546.612
+                text = " Dao se nekad hodim na nekako..."
+            intervals [85]:
+                xmin = 551.843
+                xmax = 553.531
+                text = " Ja sa svojmi san dosta."
+            intervals [86]:
+                xmin = 568.381
+                xmax = 573.798
+                text = " A ja pošto ja volin se te neke...kad je njokova voda, onda ne znan... plitvice pa..."
+            intervals [87]:
+                xmin = 574.321
+                xmax = 575.536
+                text = " Ono valik je..."

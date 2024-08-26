@@ -1,0 +1,186 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 310.485
+tiers? <exists>
+size = 1
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "miciprinc"
+        xmin = 0
+        xmax = 310.485
+        intervals: size = 43
+            intervals [1]:
+                xmin = 8.688
+                xmax = 12.282
+                text = " Tu su blizu delali pa su i trebali nekako štanbeni prostor da..."
+            intervals [2]:
+                xmin = 22.947
+                xmax = 24.381
+                text = " upića ku subili bo šanci..."
+            intervals [3]:
+                xmin = 37.966
+                xmax = 40.717
+                text = " Jako je malo va kojik slučaju ih kot ta divojka."
+            intervals [4]:
+                xmin = 41.206
+                xmax = 42.556
+                text = " da govore grobnički."
+            intervals [5]:
+                xmin = 43.636
+                xmax = 46.91
+                text = " Jer kako oni između sebe doma ne govore grobnički,"
+            intervals [6]:
+                xmin = 47.416
+                xmax = 50.824
+                text = " A ča je nan kako se zvaji to bosanski jezik? Lide zna našte..."
+            intervals [7]:
+                xmin = 51.23
+                xmax = 55.213
+                text = " razlikuje od našega književnoga va naglasku i va semu, to si znamo."
+            intervals [8]:
+                xmin = 55.668
+                xmax = 58.655
+                text = " ali su zadržali. Evo, neka su oni već 30 let na..."
+            intervals [9]:
+                xmin = 58.992
+                xmax = 61.709
+                text = " Grodnušći mi ali oni govore svoje kot da su doma."
+            intervals [10]:
+                xmin = 63.532
+                xmax = 67.868
+                text = " Jako malo je ovaj da se sa nam čuje. Dobro, ne postanem janda jona vaš se lukat."
+            intervals [11]:
+                xmin = 68.358
+                xmax = 70.991
+                text = " Je bilo dosta va kontaktu s pohunci..."
+            intervals [12]:
+                xmin = 71.429
+                xmax = 73.977
+                text = " va školi, tako da je..."
+            intervals [13]:
+                xmin = 74.872
+                xmax = 77.184
+                text = " Va toj okolini kad je, onda ona će palit."
+            intervals [14]:
+                xmin = 87.595
+                xmax = 112.84
+                text = " Tako da je koda san se vrnuć četadest let vanazad o jegitincu, kako je po humšinjeli, tako je govorila. I onda kad mi je rekla jmeni prežime, neka lupiću fazdila Ibrahin Begović, ono, po humica, po govoru, po semu. I onda me je razumela o čemu, pardon, razumela je govorima ja li bar, ma ja sama..."
+            intervals [15]:
+                xmin = 120.164
+                xmax = 121.936
+                text = " Mi smo živeli na donje vežice."
+            intervals [16]:
+                xmin = 122.56
+                xmax = 125.496
+                text = " Naša dica su hodila va školu na vežici."
+            intervals [17]:
+                xmin = 126.425
+                xmax = 129.176
+                text = " I oni...mi smo doma samo grobnički govorili."
+            intervals [18]:
+                xmin = 129.31
+                xmax = 131.453
+                text = " Znači, na nje je i teško govorit"
+            intervals [19]:
+                xmin = 132.263
+                xmax = 135.334
+                text = " prvatski. Jaš nas naglasak nasizda, moremo mi ča..."
+            intervals [20]:
+                xmin = 135.757
+                xmax = 138.103
+                text = " I ono, i puno buću na se i špotali... E bo, čekinani!"
+            intervals [21]:
+                xmin = 138.473
+                xmax = 141.967
+                text = " ću, to je naš karakterističan ću, ali dica..."
+            intervals [22]:
+                xmin = 142.169
+                xmax = 146.995
+                text = " Čin su došli doma, oni su se prešatali, oni znaju knjiže mnogovorice kako rabi. "
+            intervals [23]:
+                xmin = 147.282
+                xmax = 149.189
+                text = " Uopćeni su imeli problemih va školi,"
+            intervals [24]:
+                xmin = 151.433
+                xmax = 152.125
+                text = " Kjom ni kjon..."
+            intervals [25]:
+                xmin = 160.985
+                xmax = 162.267
+                text = " To ne nerni stin."
+            intervals [26]:
+                xmin = 163.482
+                xmax = 166.469
+                text = " Ali to je lipo da se zadrži ono svoje..."
+            intervals [27]:
+                xmin = 167.212
+                xmax = 174.013
+                text = " A vašto mislite da je jako sad to sad grobnik ka stav si imaju te čakavske katedre, poliko to sad..."
+            intervals [28]:
+                xmin = 174.569
+                xmax = 177.084
+                text = " znači na grobniku."
+            intervals [29]:
+                xmin = 181.387
+                xmax = 184.492
+                text = " va osnovnoj školi imaju ta nekako..."
+            intervals [30]:
+                xmin = 185.42
+                xmax = 187.647
+                text = " Pjefnju pišu..."
+            intervals [31]:
+                xmin = 188.12
+                xmax = 189.318
+                text = " na dijelek tisla."
+            intervals [32]:
+                xmin = 189.402
+                xmax = 191.343
+                text = " Nekako vi naće ča imaju..."
+            intervals [33]:
+                xmin = 209.973
+                xmax = 210.783
+                text = " a oni si moći ribat."
+            intervals [34]:
+                xmin = 210.8
+                xmax = 211.812
+                text = " po stale populare."
+            intervals [35]:
+                xmin = 227.523
+                xmax = 247.183
+                text = " Ako ti se zna tako va dialetu govorit, onda bi ga zagrebčani da bi ga poticali da neka govori da nji to baš... Lipo. ... simpatično, ko ča je sprit kin dialet ki ih to, na svoj način, nji isto simpatičan. E, pa su ga i to tako poticali neka-neka govoriv va dialetu."
+            intervals [36]:
+                xmin = 247.402
+                xmax = 257.402
+                text = " To baš sam htjela pitati. Čini mi se da zvučite baš ko tipična osoba iz pohuma. A jel ste?"
+            intervals [37]:
+                xmin = 257.402
+                xmax = 262.758
+                text = " Jeste vi to ipak, recimo kad biste s vašim kolegama na poslu govorili, micali?"
+            intervals [38]:
+                xmin = 263.5
+                xmax = 268.664
+                text = " Jeste mi rekli da vam se učiteljica nekad u srednjoj školi... da niste imeli osjećaj da se van se rugali."
+            intervals [39]:
+                xmin = 269.052
+                xmax = 272.765
+                text = " I tako. Ali kolege na delu... To ne! Ne! Ne! Ne!"
+            intervals [40]:
+                xmin = 273.98
+                xmax = 276.882
+                text = " Jaš san vavik kad min se telefonon, onda ni bilo ni..."
+            intervals [41]:
+                xmin = 277.49
+                xmax = 285.911
+                text = " nisam telefon, onda mi se oviki predstavju darko grobničan. Jev san saki nafno se..."
+            intervals [42]:
+                xmin = 286.501
+                xmax = 290.737
+                text = " Bin telefonon zvalje Kiprija. Vjeljo zavrim Jegošlaviju. Onda bin vaviv bin..."
+            intervals [43]:
+                xmin = 291.344
+                xmax = 299.782
+                text = " se predstav je darko gromičan. Darko broznićili, ali pa mi je vavik rekav darko gromičani."

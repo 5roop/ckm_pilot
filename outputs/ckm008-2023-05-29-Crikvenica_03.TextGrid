@@ -1,0 +1,414 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 597.06
+tiers? <exists>
+size = 1
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "miciprinc"
+        xmin = 0
+        xmax = 597.06
+        intervals: size = 100
+            intervals [1]:
+                xmin = 0.2
+                xmax = 2.984
+                text = " Kad se počinje, evo kad smo već gotova,"
+            intervals [2]:
+                xmin = 3.389
+                xmax = 4.452
+                text = " Novljansko holo."
+            intervals [3]:
+                xmin = 5.397
+                xmax = 7.608
+                text = " Novljansko kolo počinje"
+            intervals [4]:
+                xmin = 10.628
+                xmax = 18.644
+                text = " Subotu mesopusnu, znači to j datum, dan kad se misi mesopust."
+            intervals [5]:
+                xmin = 19.015
+                xmax = 20.078
+                text = " čovik od slame,"
+            intervals [6]:
+                xmin = 20.467
+                xmax = 25.479
+                text = " Koga se onda upisi na tramicu, to je mesto na starom gradu,"
+            intervals [7]:
+                xmin = 25.968
+                xmax = 34.675
+                text = " kaštelu Vanovon kada i mesopust visi. Naš mesopust je za razliku od mesopustih i zokolnih i susebnih,"
+            intervals [8]:
+                xmin = 41.392
+                xmax = 45.206
+                text = " ku va bele gaća, bela košulja, popeglan..."
+            intervals [9]:
+                xmin = 45.678
+                xmax = 53.255
+                text = " veli, veli ovaj garoful od... bela ruža od krepapira."
+            intervals [10]:
+                xmin = 53.913
+                xmax = 57.946
+                text = " Ima prki, mislin, bele rukavice, črne čih zmen."
+            intervals [11]:
+                xmin = 58.199
+                xmax = 60.612
+                text = " Stvarno čovik. Stvarno čovik."
+            intervals [12]:
+                xmin = 60.747
+                xmax = 62.806
+                text = " Eta će njiga udisit lorsu boc."
+            intervals [13]:
+                xmin = 63.768
+                xmax = 66.873
+                text = " Onda je nedilju častoljka."
+            intervals [14]:
+                xmin = 71.362
+                xmax = 75.985
+                text = " va polu igranu nelivin samo va beloj noć. I to je berhan."
+            intervals [15]:
+                xmin = 76.492
+                xmax = 84.221
+                text = " Međutim, svoje vrimeno se vela nošnja bila dosta zgubila, najme črne su ostale."
+            intervals [16]:
+                xmin = 84.912
+                xmax = 87.274
+                text = " A bela se bila jako zgubina."
+            intervals [17]:
+                xmin = 87.815
+                xmax = 90.751
+                text = " A sad, ih kad smo polinošnje, samo ću spomenut"
+            intervals [18]:
+                xmin = 91.325
+                xmax = 93.637
+                text = " Lajnan na šabaka i mama."
+            intervals [19]:
+                xmin = 98.48
+                xmax = 104.758
+                text = " A u nošnju, ali z veloga pikea, to je materijal tkoga, tak ni bilo."
+            intervals [20]:
+                xmin = 105.145
+                xmax = 111.896
+                text = " Naš barba je va to vrime bil va krstu, va Italiji ji delal, ali ni, ni..."
+            intervals [21]:
+                xmin = 112.233
+                xmax = 120.721
+                text = " Čak ni tamo mogal nabaviti ta materijal ki je trebal ča se tiče bele nožnje, tako da mi zapravo imamo"
+            intervals [22]:
+                xmin = 121.193
+                xmax = 128.854
+                text = " se nošnje do... to je gospodska... E, tu san nas tela pitat kaj je razlika među nošnjami..."
+            intervals [23]:
+                xmin = 128.973
+                xmax = 131.234
+                text = " Sačuvan povidati! Samo da recen"
+            intervals [24]:
+                xmin = 131.673
+                xmax = 132.787
+                text = " Da je ovaj!"
+            intervals [25]:
+                xmin = 133.276
+                xmax = 139.992
+                text = " Nediljun je onda napon ničesnog primena bilo dozvoljeno, odnosno dogovoreli su se,"
+            intervals [26]:
+                xmin = 140.448
+                xmax = 149.544
+                text = " nositelji običaja neka budu se nošnje. Tako da nedilju morate vidit ne samo belu, nego i kolo predivno, prekrasno,"
+            intervals [27]:
+                xmin = 154.201
+                xmax = 156.867
+                text = " Ondiljat se igralo va plavoj noći,"
+            intervals [28]:
+                xmin = 157.677
+                xmax = 161.558
+                text = " va plavoj nošnji, a utorak va črljenoj,"
+            intervals [29]:
+                xmin = 162.554
+                xmax = 164.697
+                text = " Ime da... je i to se važi."
+            intervals [30]:
+                xmin = 165.305
+                xmax = 167.752
+                text = " Bo bilo tako da se gotovo sada se dani"
+            intervals [31]:
+                xmin = 173.472
+                xmax = 175.986
+                text = " i tako da je kolopondija putora ki seje."
+            intervals [32]:
+                xmin = 176.78
+                xmax = 180.358
+                text = " mediju pondija kiju dora ka srediju sprovod,"
+            intervals [33]:
+                xmin = 180.728
+                xmax = 183.023
+                text = " Vesopusta to je, kroz celi grad."
+            intervals [34]:
+                xmin = 183.361
+                xmax = 185.538
+                text = " La penanje je snjin i dan"
+            intervals [35]:
+                xmin = 189.976
+                xmax = 192.608
+                text = " holudrice i tako."
+            intervals [36]:
+                xmin = 192.963
+                xmax = 193.907
+                text = " Pred preteš."
+            intervals [37]:
+                xmin = 194.887
+                xmax = 196.102
+                text = " on"
+            intervals [38]:
+                xmin = 198.262
+                xmax = 200.658
+                text = " Ili ima svake hodine kod nas, reci,"
+            intervals [39]:
+                xmin = 207.391
+                xmax = 211.643
+                text = " Misi ga se va domu. Prijeg se j to delalo va..."
+            intervals [40]:
+                xmin = 212.774
+                xmax = 216.74
+                text = " Ma, va mojoj najranijoj mladosti na vatrogasnom domu, pa onda..."
+            intervals [41]:
+                xmin = 217.195
+                xmax = 222.713
+                text = " Sej se lilji motamo dok ni prišal na dom. Tako da je sada, obzirom da je naš dom"
+            intervals [42]:
+                xmin = 223.017
+                xmax = 225.481
+                text = " kulture veriki, onda na binu,"
+            intervals [43]:
+                xmin = 226.139
+                xmax = 229.008
+                text = " kladu ston i ljudi kiga mi se"
+            intervals [44]:
+                xmin = 240.01
+                xmax = 241.039
+                text = " U min sega"
+            intervals [45]:
+                xmin = 241.63
+                xmax = 245.899
+                text = " osidu na kantridu i sad me so pustali."
+            intervals [46]:
+                xmin = 246.203
+                xmax = 248.819
+                text = " Nastupaju i pozdraću."
+            intervals [47]:
+                xmin = 251.452
+                xmax = 259.045
+                text = " I sad počinje krštenje, se to boli nazove. Dolaze grupe ljudi predvođene sopilašimi,"
+            intervals [48]:
+                xmin = 259.501
+                xmax = 265.07
+                text = " I saki nosi svoje ime. I sad, ča, ča, publika!"
+            intervals [49]:
+                xmin = 265.39
+                xmax = 267.55
+                text = " prihvati konaj, prihvati vije,"
+            intervals [50]:
+                xmin = 267.905
+                xmax = 273.524
+                text = " Tako se zove. Tako da, sakoletojima, obično je to ime vezano"
+            intervals [51]:
+                xmin = 281.506
+                xmax = 291.85
+                text = " Iš, kod nas je šentenca, kod vas je žitak... Poli nas je žitak. Žitak je kronika doganjanja..."
+            intervals [52]:
+                xmin = 292.289
+                xmax = 299.63
+                text = " Celomu letu počinje obično sa pozdravom gradu ljudimi ki su vani,"
+            intervals [53]:
+                xmin = 300.963
+                xmax = 305.604
+                text = " va svitu i onda dogod ošćine ke su se dogodili"
+            intervals [54]:
+                xmin = 306.548
+                xmax = 310.919
+                text = " Najprvo va Hrvatskoj, onda se gre od jednoga do drugoga."
+            intervals [55]:
+                xmin = 311.611
+                xmax = 316.302
+                text = " time da...ma to se daraska već pomalo zgubilo, ali prije je bilo..."
+            intervals [56]:
+                xmin = 316.69
+                xmax = 322.968
+                text = " ljudi ki su se žalili zaš si Meklana žitak, a drugih bi, potezat,"
+            intervals [57]:
+                xmin = 322.985
+                xmax = 325.871
+                text = " ali za ruh, kuizij, ali zašto mi jizik lahad važi."
+            intervals [58]:
+                xmin = 326.562
+                xmax = 328.452
+                text = " Tako da, mislin, pitanje je..."
+            intervals [59]:
+                xmin = 328.739
+                xmax = 330.443
+                text = " Ča kako je ki doživljavale?"
+            intervals [60]:
+                xmin = 333.599
+                xmax = 336.299
+                text = " smo već poli žitka naše tata godina."
+            intervals [61]:
+                xmin = 338.358
+                xmax = 354.49
+                text = " I tu je on je bil isto jedan zanjubljenik. Čak je u vrime kad je primjetin da se pomalo običaj zatare, da će se zatrt, onda dil objavlji jednu knjigu, knjižicu Novljanski običaji."
+            intervals [62]:
+                xmin = 354.895
+                xmax = 360.059
+                text = " i opisal odnošnje pa do zadnje detalja va običaju kriva."
+            intervals [63]:
+                xmin = 366.353
+                xmax = 366.927
+                text = " Pogaime!"
+            intervals [64]:
+                xmin = 367.265
+                xmax = 368.497
+                text = " Saka povihijeljmeni!"
+            intervals [65]:
+                xmin = 377.474
+                xmax = 382.148
+                text = " Nisan pripravila, ne znan sa točno na pamet, ali tu ja iman,"
+            intervals [66]:
+                xmin = 411.646
+                xmax = 424.15
+                text = " Jasti se potrudili i izdali knjigu žitak zapravo 1977. leta."
+            intervals [67]:
+                xmin = 424.758
+                xmax = 426.041
+                text = " od 1864."
+            intervals [68]:
+                xmin = 432.368
+                xmax = 434.377
+                text = " dodajen sredi,"
+            intervals [69]:
+                xmin = 438.477
+                xmax = 440.451
+                text = " Čuti me daj ovo leto!"
+            intervals [70]:
+                xmin = 441.245
+                xmax = 444.738
+                text = " jedna interesantna informacija."
+            intervals [71]:
+                xmin = 450.83
+                xmax = 453.884
+                text = " Nisan znala da će bit tema pa se nisan pripravila."
+            intervals [72]:
+                xmin = 454.289
+                xmax = 457.765
+                text = " Uglavnom se učiviš na profesorica."
+            intervals [73]:
+                xmin = 458.407
+                xmax = 460.601
+                text = " Na krku našla je jedan zapis."
+            intervals [74]:
+                xmin = 461.697
+                xmax = 463.401
+                text = " Isto u stihu je re."
+            intervals [75]:
+                xmin = 464.549
+                xmax = 466.472
+                text = " i ovaj..."
+            intervals [76]:
+                xmin = 467.215
+                xmax = 468.801
+                text = " I pretpostavja se"
+            intervals [77]:
+                xmin = 469.19
+                xmax = 476.733
+                text = " Pretpostavlja se da je to prvi novdjanski žitak ki je pisan 17..., nisi nosan deset rećega leta..."
+            intervals [78]:
+                xmin = 477.678
+                xmax = 483.888
+                text = " To se sad još proučava, ali je interesantno da prije nego ča su pisana židke."
+            intervals [79]:
+                xmin = 483.938
+                xmax = 486.706
+                text = " da su ljudi vanovon napame,"
+            intervals [80]:
+                xmin = 487.938
+                xmax = 489.389
+                text = " govoreli žitak."
+            intervals [81]:
+                xmin = 490.064
+                xmax = 493.574
+                text = " Tako da ni rečeno da je 1862."
+            intervals [82]:
+                xmin = 494.08
+                xmax = 497.961
+                text = " Leta to je prvi pisani trak do koga se prišlo."
+            intervals [83]:
+                xmin = 498.367
+                xmax = 513.774
+                text = " Nevo su ljudi na placu bi prišli govoreli šitak u spihu na pamet. Da, zanimljivo. A dav se znak kiga piše ili je to anonimno? Ne, ne. Zna se kiga piše. Zna se? Mhm."
+            intervals [84]:
+                xmin = 514.111
+                xmax = 518.802
+                text = " Bilo... Ima nikuliko ljudi k vano on ki jako dobro ži i tak pišu."
+            intervals [85]:
+                xmin = 519.308
+                xmax = 524.253
+                text = " I sad, va zadnje vrime, je nekako vi redosni."
+            intervals [86]:
+                xmin = 524.287
+                xmax = 526.969
+                text = " Gjeno leto jedan drugu i tako."
+            intervals [87]:
+                xmin = 527.476
+                xmax = 529.552
+                text = " A sakupjanči građe su si..."
+            intervals [88]:
+                xmin = 530.092
+                xmax = 532.403
+                text = " Novjani, ti anonimi, ti..."
+            intervals [89]:
+                xmin = 532.792
+                xmax = 535.779
+                text = " I poznatiju smislu."
+            intervals [90]:
+                xmin = 536.234
+                xmax = 537.483
+                text = " da dogodostine,"
+            intervals [91]:
+                xmin = 537.517
+                xmax = 542.833
+                text = " Daje autoru i onda jih autor priragodi živku i dobađaju ki se dogodi."
+            intervals [92]:
+                xmin = 542.95
+                xmax = 546.528
+                text = " A ja san va kodu znava videti miću dečicu. O, da!"
+            intervals [93]:
+                xmin = 553.227
+                xmax = 557.513
+                text = " Eta, da je samo razgovor, da ni moguće pogledati."
+            intervals [94]:
+                xmin = 557.986
+                xmax = 565.192
+                text = " Ne samo mi. Kad rečen mi, onda mislin na novljanski žitelje, novoga. "
+            intervals [95]:
+                xmin = 565.664
+                xmax = 568.01
+                text = " Ne samo autoktone, nego se..."
+            intervals [96]:
+                xmin = 568.398
+                xmax = 573.899
+                text = " Građane, jer ja hiljadu put rečen ta misl ni vavik ostala va sićanju,"
+            intervals [97]:
+                xmin = 574.743
+                xmax = 579.114
+                text = " Pitali su jednoga Dubrovčana Ča ti misliš ki je pravi gospod?"
+            intervals [98]:
+                xmin = 580.126
+                xmax = 584.547
+                text = " a ta je poznati dubrovčan je odgovor ili saki on ki žive z gradom."
+            intervals [99]:
+                xmin = 585.408
+                xmax = 588.952
+                text = " da kad ja rečem novjani, onda mislin na se ljude ki su..."
+            intervals [100]:
+                xmin = 589.39
+                xmax = 594.723
+                text = " Van o von, bez obzira s kuda su prišli sul rođenini i sul rođeni ako živu,"

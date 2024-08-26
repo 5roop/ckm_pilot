@@ -1,0 +1,426 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 593.061
+tiers? <exists>
+size = 1
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "miciprinc"
+        xmin = 0
+        xmax = 593.061
+        intervals: size = 103
+            intervals [1]:
+                xmin = 0.335
+                xmax = 6.629
+                text = " Danas smo se jušto smijeli za sensovo. Ča ste za sensovo? Za sinsovo smo delali prvo sinsi,"
+            intervals [2]:
+                xmin = 7.203
+                xmax = 12.097
+                text = " je mat nas poslala, to ča ste prvo rekali, dali smo uvijek slobodnega vrimena. Ne!"
+            intervals [3]:
+                xmin = 12.805
+                xmax = 15.657
+                text = " Cijelo šetimanu san obahajevala se njivi"
+            intervals [4]:
+                xmin = 15.978
+                xmax = 19.91
+                text = " Koruni, zglavnice, pogotovo da bih našla kade je."
+            intervals [5]:
+                xmin = 20.298
+                xmax = 23.268
+                text = " Div li radić ili kunjski radić? Da."
+            intervals [6]:
+                xmin = 23.723
+                xmax = 27.335
+                text = " mak i sve ono ča greva mneštri, korona."
+            intervals [7]:
+                xmin = 35.08
+                xmax = 39.552
+                text = " A mat je vajka usušila, odnosno vajka smo imeli sušeni za jižba."
+            intervals [8]:
+                xmin = 39.755
+                xmax = 44.429
+                text = " Ja, i to je skuhala, ma to je bila dobra maneštra. I oni, oni put je..."
+            intervals [9]:
+                xmin = 44.783
+                xmax = 53.558
+                text = " Anke pokle, kad smo bimali svoje kući i to, kar bajka nas je zvala na sinso i razdijelila, tako, kušćić po kušćić za sakiga,"
+            intervals [10]:
+                xmin = 53.963
+                xmax = 58.013
+                text = " prašćega zajika jer da se zna lijepo borit."
+            intervals [11]:
+                xmin = 60.005
+                xmax = 66.215
+                text = " To je bila ta maneštrina ča smo kuhali joti po zime, škandela..."
+            intervals [12]:
+                xmin = 67.767
+                xmax = 69.488
+                text = " Puza je jako nagost."
+            intervals [13]:
+                xmin = 71.024
+                xmax = 72.239
+                text = " ku je bila..."
+            intervals [14]:
+                xmin = 72.796
+                xmax = 77.436
+                text = " kakov put kakova klobasica... ali kakov put..."
+            intervals [15]:
+                xmin = 77.555
+                xmax = 82.061
+                text = " Ne vajk, mi smo imeli krodigini, to je od koži. Znan znan ča se... E! Znan znan ča se... E!"
+            intervals [16]:
+                xmin = 82.499
+                xmax = 85.553
+                text = " Rodigine smo imeli. To je bilo za domaću upotrebu."
+            intervals [17]:
+                xmin = 86.11
+                xmax = 90.734
+                text = " A zaspravit je bilo ovaj kaklobasici žlumpak i to va mšći."
+            intervals [18]:
+                xmin = 92.641
+                xmax = 96.539
+                text = " Nismo imeli kampanje, ali mama je vajka nusila marijendo"
+            intervals [19]:
+                xmin = 114.595
+                xmax = 117.076
+                text = " Kućon so vajka pasijevali vozi"
+            intervals [20]:
+                xmin = 117.278
+                xmax = 120.349
+                text = " Za kraći jebih put za malinicu."
+            intervals [21]:
+                xmin = 121.008
+                xmax = 123.168
+                text = " Aha, kad se gonili na vodu."
+            intervals [22]:
+                xmin = 123.387
+                xmax = 125.176
+                text = " Ne, ne, malinicu!"
+            intervals [23]:
+                xmin = 129.243
+                xmax = 138.322
+                text = " Tako to su pasevali svaki dan z vozi i vozi na voze su bili nakargane pune vreći i pokri su va večer kad su zamljeli su pasevali dome."
+            intervals [24]:
+                xmin = 138.878
+                xmax = 143.992
+                text = " Ali još nešto su ti vašćani brali žbit."
+            intervals [25]:
+                xmin = 151.889
+                xmax = 155.585
+                text = " Ti su jih prodavali. A, kao zasticatelj."
+            intervals [26]:
+                xmin = 159.179
+                xmax = 160.731
+                text = " Rameti la vatenu vejstinu."
+            intervals [27]:
+                xmin = 161.677
+                xmax = 170.739
+                text = " Ča smo još delali? Pokle bartulji. Koja je bila glavna fešta po bartulji? Pokle bartulji je bila vela fešta i za mladetin."
+            intervals [28]:
+                xmin = 174.232
+                xmax = 176.983
+                text = " Užanca da mladić divojke"
+            intervals [29]:
+                xmin = 177.86
+                xmax = 181.539
+                text = " pronta jenu jabuku, jer to su bili bančići,"
+            intervals [30]:
+                xmin = 186.247
+                xmax = 188.188
+                text = " Kje je to dolovana plije si!"
+            intervals [31]:
+                xmin = 188.744
+                xmax = 192.676
+                text = " Zad kašteler tamo biva pljes i se j skupilo pul istrić."
+            intervals [32]:
+                xmin = 193.351
+                xmax = 196.659
+                text = " Ku je to dolova je bito znak."
+            intervals [33]:
+                xmin = 197.401
+                xmax = 201.451
+                text = " da će prito na martinju. To je bit drugi samanj veli."
+            intervals [34]:
+                xmin = 201.957
+                xmax = 206.8
+                text = " I na Martinju su se kao zaručili, ubećali i tako, a za pu su ženili."
+            intervals [35]:
+                xmin = 216.385
+                xmax = 221.633
+                text = " A mi holjo pak! Ali plijes ni duraka oda nas!"
+            intervals [36]:
+                xmin = 228.468
+                xmax = 230.409
+                text = " Za tu drugu se plije salo po..."
+            intervals [37]:
+                xmin = 230.948
+                xmax = 238.17
+                text = " Sako nedeljo, ali tu na česte, ali na kakove štire. Neku je ki zna sosav armoni."
+            intervals [38]:
+                xmin = 243.773
+                xmax = 250.574
+                text = " A na bartulju su u vajka bili neki harmonikaši da smo imeli i mi važminje jeno par."
+            intervals [39]:
+                xmin = 251.08
+                xmax = 255.147
+                text = " Štabe lehi, to su sopli, i se je prijesalo do po noći."
+            intervals [40]:
+                xmin = 255.67
+                xmax = 256.919
+                text = " Po noći je tribalo pojdan."
+            intervals [41]:
+                xmin = 258.877
+                xmax = 260.379
+                text = " da se vire apena vanu ni pu."
+            intervals [42]:
+                xmin = 260.547
+                xmax = 264.024
+                text = " Da nase gel tek vano. A mi hoja..."
+            intervals [43]:
+                xmin = 264.04
+                xmax = 269.491
+                text = " Miholja je vela, vela fešta jer je Sveti Mihovil naš zaštitnik."
+            intervals [44]:
+                xmin = 273.794
+                xmax = 275.499
+                text = " ljudi, pogotovo žminci,"
+            intervals [45]:
+                xmin = 276.595
+                xmax = 280.493
+                text = " Mašo, to je vela maša kada je prido od čuda plovani."
+            intervals [46]:
+                xmin = 280.814
+                xmax = 290.264
+                text = " Ali još nešto jako važno. Si naši žminci, ih je bilo trinajs, sad ih je čuda manji. E, sad so pomirali čuda od njih."
+            intervals [47]:
+                xmin = 290.99
+                xmax = 294.871
+                text = " Ih je čuda manje. I si čisti koncelebriraju velu mašu."
+            intervals [48]:
+                xmin = 295.529
+                xmax = 298.111
+                text = " A koda je to bila vela vela fešta,"
+            intervals [49]:
+                xmin = 298.735
+                xmax = 301.553
+                text = " Prvo tega i trodnevnica, i bdjenje."
+            intervals [50]:
+                xmin = 303.545
+                xmax = 309.113
+                text = " A ta mihoto, znači, to dvak držali kao glavno crkveno fešto. Glavno crkveno fešto. Mihoto..."
+            intervals [51]:
+                xmin = 311.358
+                xmax = 317.889
+                text = " A pole... A pole ja! A pole smo ščekijevali, ja san to jako rado ščekijevala..."
+            intervals [52]:
+                xmin = 318.226
+                xmax = 321.634
+                text = " Zovnice. Zovnice va žminje so bile javne."
+            intervals [53]:
+                xmin = 321.837
+                xmax = 324.385
+                text = " jako puna krca ta crikva,"
+            intervals [54]:
+                xmin = 325.06
+                xmax = 332.671
+                text = " I ono je ma ne zustalo kad nisan mogla već hodit oni put. Mi je to strašno falilo. Prideš kurega i važigaš."
+            intervals [55]:
+                xmin = 332.84
+                xmax = 341.395
+                text = " svetlavinu crijeku, jako lijepo, sa onim svim mogućim... tin... svećami... svjećami..."
+            intervals [56]:
+                xmin = 346.981
+                xmax = 351.79
+                text = " žin, ma ti je sako večer kuhala škrobić na te čaškave... Znači..."
+            intervals [57]:
+                xmin = 353.478
+                xmax = 358.827
+                text = " Morete povedat slobodno ča jaz znat. Va večer je to bila palijenta ka je bila tepla."
+            intervals [58]:
+                xmin = 358.928
+                xmax = 363.282
+                text = " I mat je stavljala mrzlo mlijeko. I to smo pojeli, jedan pjat."
+            intervals [59]:
+                xmin = 363.653
+                xmax = 367.501
+                text = " Ba jutro kad san prišla od zornici, me je čekav prvo školi,"
+            intervals [60]:
+                xmin = 367.822
+                xmax = 369.678
+                text = " Lijepi, žuti, pjatni..."
+            intervals [61]:
+                xmin = 370.184
+                xmax = 371.23
+                text = " ali mrz liga."
+            intervals [62]:
+                xmin = 371.382
+                xmax = 375.398
+                text = " mrzli palijenti mrzliga škrobića i tad je mat stavljala."
+            intervals [63]:
+                xmin = 375.787
+                xmax = 382.317
+                text = " teplo mliko. Eko, to su bili naši budinzi. Na zornice ste dohali samo žminci ili anka?"
+            intervals [64]:
+                xmin = 382.452
+                xmax = 383.532
+                text = " Ne, ne, ne!"
+            intervals [65]:
+                xmin = 395.075
+                xmax = 396.678
+                text = " jer mi smo čuda..."
+            intervals [66]:
+                xmin = 400.964
+                xmax = 405.47
+                text = " Cerani, ne cerani, imaju svoju crijekovu, ali tu su dolazili..."
+            intervals [67]:
+                xmin = 405.824
+                xmax = 407.545
+                text = " I vaiki bi la puna crijeque."
+            intervals [68]:
+                xmin = 408.068
+                xmax = 410.329
+                text = " I tako se je čekalo i se smo pomogli."
+            intervals [69]:
+                xmin = 414.346
+                xmax = 416.692
+                text = " I za sebe, i za jasnice tamo."
+            intervals [70]:
+                xmin = 416.978
+                xmax = 422.327
+                text = " A mi doma smo pak delali...ja san delala vajke one figurice za jaslice od hartuona."
+            intervals [71]:
+                xmin = 423.138
+                xmax = 430.934
+                text = " Kupljala san šiški za kuglice za bor. To su mi bile imitacija kuglica."
+            intervals [72]:
+                xmin = 431.778
+                xmax = 432.74
+                text = " I..."
+            intervals [73]:
+                xmin = 433.094
+                xmax = 442.207
+                text = " Vajk smo pomogli va crije kada se j to delalo jer smo uživali. Ja san više vrimena bila va crije pokle tega, a za nagradu vajk nanje..."
+            intervals [74]:
+                xmin = 442.662
+                xmax = 446.999
+                text = " pokojni, velečasni zafran da dozvolu da gremo"
+            intervals [75]:
+                xmin = 450.813
+                xmax = 454.593
+                text = " turni, anke zvonilji, anke jakako mali i drogi."
+            intervals [76]:
+                xmin = 455.15
+                xmax = 462.052
+                text = " I mene je to impresioniralo. Vak san gledala zone hmjerlići jo vamo, jo namo, gledala tavo..."
+            intervals [77]:
+                xmin = 462.625
+                xmax = 466.709
+                text = " Sad je se ono ča san ja vidila sturna se zaraždjeno."
+            intervals [78]:
+                xmin = 467.097
+                xmax = 469.426
+                text = " Jer jedanput smo imeli čuda čuda kost."
+            intervals [79]:
+                xmin = 471.788
+                xmax = 474.488
+                text = " Nešto malo ovac ali kozi su bile jagove."
+            intervals [80]:
+                xmin = 474.893
+                xmax = 479.297
+                text = " Popularne važminje i se so pobrstele, i se je bilo čisto."
+            intervals [81]:
+                xmin = 479.703
+                xmax = 481.255
+                text = " Danas je se zarašćen."
+            intervals [82]:
+                xmin = 482.318
+                xmax = 485.44
+                text = " De kamo god grete kad je god grete kad greniapu."
+            intervals [83]:
+                xmin = 486.082
+                xmax = 489.828
+                text = " po kampanjah kad bih šla po neken portire Sezarav."
+            intervals [84]:
+                xmin = 490.908
+                xmax = 494.081
+                text = " Oni portiri mojih otročnih dan više ni."
+            intervals [85]:
+                xmin = 494.519
+                xmax = 498.097
+                text = " jer su zarašćeni, a ja se domišljan da su gospodari."
+            intervals [86]:
+                xmin = 498.147
+                xmax = 499.295
+                text = " A ri moj nuonu!"
+            intervals [87]:
+                xmin = 499.328
+                xmax = 503.699
+                text = " Pokujeni isto, mojutac također, nosili vajka kosirići."
+            intervals [88]:
+                xmin = 504.121
+                xmax = 506.602
+                text = " U žepu na brakešak za vešenj."
+            intervals [89]:
+                xmin = 506.905
+                xmax = 512.693
+                text = " E, i kad god su prišli puli nečiga ovamo da je trebalo očistit, to su va hodu očistili."
+            intervals [90]:
+                xmin = 517.216
+                xmax = 519.68
+                text = " Da, nanka nju nek koji biono siliko, sijera kamole da buđu..."
+            intervals [91]:
+                xmin = 523.612
+                xmax = 526.784
+                text = " A kako ste doma v slavili? Boži, ča ste pramevali? Boži smo..."
+            intervals [92]:
+                xmin = 527.273
+                xmax = 529.382
+                text = " Božit smo slavili doma jako!"
+            intervals [93]:
+                xmin = 530.075
+                xmax = 533.568
+                text = " Jako moja mati je za to jako držala i to..."
+            intervals [94]:
+                xmin = 534.091
+                xmax = 538.917
+                text = " Smo čekali svi, ali ne radi bolje hrani. Nate, danas bimo rekli..."
+            intervals [95]:
+                xmin = 539.356
+                xmax = 542.545
+                text = " Ste čekali aš ste bili lačni! Nismo bili nikad lačni!"
+            intervals [96]:
+                xmin = 542.984
+                xmax = 544.115
+                text = " Nego smo čekali."
+            intervals [97]:
+                xmin = 544.705
+                xmax = 546.004
+                text = " Bolju hranu, naravno,"
+            intervals [98]:
+                xmin = 547.861
+                xmax = 548.907
+                text = " Kov kola čić."
+            intervals [99]:
+                xmin = 549.262
+                xmax = 562.441
+                text = " Ali smo čekali nešto drugo. Ja, na primjer, ja san čekala vać ono milino, ono teplino ka me ispunjavale odzornica, pa dalje va one škurine teplo i lijepo. A mati je vajka storila, vajk smo..."
+            intervals [100]:
+                xmin = 562.795
+                xmax = 572.795
+                text = " Imeli je organizirano tombulo za čekat po noćinicu. Si su sedi, si čisti su prišli igrat do jedaneste uri pokle su se šli po noćinicu."
+            intervals [101]:
+                xmin = 572.795
+                xmax = 582.795
+                text = " Prebući, si skupa smo šli na poljnoćinicu. Kad smo se tornevali s poljnoćinici po te iste štrade z duln, jer to je gre od rijeku i pa dole,"
+            intervals [102]:
+                xmin = 582.795
+                xmax = 589.39
+                text = " Svi smo skupa kantali, oni ki su znali, ja kad nisan znala, ali san zajno kantala, use vrijeme godišta."
+            intervals [103]:
+                xmin = 590.302
+                xmax = 592.631
+                text = " To je bi kako niki zakun. E!"

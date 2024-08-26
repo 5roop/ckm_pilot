@@ -1,0 +1,470 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 598.181
+tiers? <exists>
+size = 1
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "miciprinc"
+        xmin = 0
+        xmax = 598.181
+        intervals: size = 114
+            intervals [1]:
+                xmin = 4.148
+                xmax = 5.346
+                text = " To te ga fiđeta. Što vingas..."
+            intervals [2]:
+                xmin = 6.646
+                xmax = 10.409
+                text = " Ne bin rad da kapiš da bija to, to gozad mi je drago ke si to jin batilo. "
+            intervals [3]:
+                xmin = 10.814
+                xmax = 16.028
+                text = " Soma bi titi reć kako je otrok šempio i kakova štupineć otrok more storit dok se obrne žlovota nakoli sebi."
+            intervals [4]:
+                xmin = 20.99
+                xmax = 22.711
+                text = " Dobon bovice!"
+            intervals [5]:
+                xmin = 23.858
+                xmax = 28.212
+                text = " Kaj, ma kaj se nismo delali, štupide se, jiboh! Enbod, tu je bi niki frantojo..."
+            intervals [6]:
+                xmin = 29.225
+                xmax = 31.756
+                text = " Niki pokojni mar još minja se spračane."
+            intervals [7]:
+                xmin = 32.144
+                xmax = 36.818
+                text = " Jevi, tu je... znači, to su bili storiti sidi..."
+            intervals [8]:
+                xmin = 37.342
+                xmax = 45.931
+                text = " Frantojo ti je, znaš, drobili su se kamenje i prišali se jemo s frantojon, traktore vrtet va frantoji, oni su mleli te kamenje i delali so jara. "
+            intervals [9]:
+                xmin = 46.42
+                xmax = 49.339
+                text = " ta stolišterna za posipat po cesti, za to, za noć..."
+            intervals [10]:
+                xmin = 49.407
+                xmax = 53.93
+                text = " a ovi judi su razbili store zide za storici staže da se more biti u vazeturo."
+            intervals [11]:
+                xmin = 54.436
+                xmax = 59.6
+                text = " I to frantovi gore i me mazalici se bili niki čipi onako od utona, luštri, žuti."
+            intervals [12]:
+                xmin = 60.46
+                xmax = 64.223
+                text = " Mene je mojiga prijatela pijažilo i smo si zjeli saki jentot čep i smo si jih skrili."
+            intervals [13]:
+                xmin = 65.827
+                xmax = 75.344
+                text = " To je čovjek ki prišo se rabijat da nikeme zev čepe. Jast san mu te pokazat kade čepi so. Čepi ni bilo to, ma to je moj pajdo. Moj prijatelj je zev jeniga i drugiga. Jene su ča!"
+            intervals [14]:
+                xmin = 75.8
+                xmax = 77.977
+                text = " I ponjerizno dali mi hionim atronati. Jast..."
+            intervals [15]:
+                xmin = 78.753
+                xmax = 79.917
+                text = " san storika je samo mnoga."
+            intervals [16]:
+                xmin = 80.288
+                xmax = 88.793
+                text = " A pijaže me! Od luštan čep, tako je bila puna pešćica otročeva, latiga čepa, kako si ga stiskav, toliko je mas hodila natri od ta balenjera kada je..."
+            intervals [17]:
+                xmin = 88.81
+                xmax = 91.527
+                text = " Tako da štupidec smo ne palili."
+            intervals [18]:
+                xmin = 96.202
+                xmax = 105.585
+                text = " Bite morali izdvojit tako neke važneje fešte tu poli vas u kraju. Koje bi bile najvažneje ča ste slavili tu poli vas u krušvar ili u račicah?"
+            intervals [19]:
+                xmin = 106.512
+                xmax = 109.313
+                text = " Biv je to san manji puleti i biv san manj to..."
+            intervals [20]:
+                xmin = 109.82
+                xmax = 112.131
+                text = " Pužime, krepi ona šte mešici,"
+            intervals [21]:
+                xmin = 113.465
+                xmax = 117.194
+                text = " Novo leto je božić, ponjer da va zanuba ki su judi se štimali,"
+            intervals [22]:
+                xmin = 118.088
+                xmax = 119.438
+                text = " Dobro lipo vrime!"
+            intervals [23]:
+                xmin = 125.817
+                xmax = 130.373
+                text = " Naka ni bilo po hišah čuda. Judi se meri kuhinja doli i gori kake kamare."
+            intervals [24]:
+                xmin = 130.947
+                xmax = 140.947
+                text = " malo kade je bilo moć da se zbere štir ili šec muški z igratne harte, a donovene mu ne pač jav. Je por zonka je bit kavot zavazan. Soto bilo lipo vrime, su seli lipone sonci, su stavili..."
+            intervals [25]:
+                xmin = 140.947
+                xmax = 144.818
+                text = " jena daska za prat ruba sa adrenalinom, a kine te daske za prat ruba"
+            intervals [26]:
+                xmin = 145.055
+                xmax = 147.029
+                text = " Su igrali ne harte, ma ne kadi moli po vrime."
+            intervals [27]:
+                xmin = 147.383
+                xmax = 148.075
+                text = " Sigurali ne bole!"
+            intervals [28]:
+                xmin = 149.442
+                xmax = 155.213
+                text = " Da li se domišljate tako ča se je frmevalo tradicionalno za jezd za te blagdane, tako?"
+            intervals [29]:
+                xmin = 155.703
+                xmax = 156.58
+                text = " I se le."
+            intervals [30]:
+                xmin = 158.707
+                xmax = 165.423
+                text = " šuho od kokoše, šuho od zajca, šuho od... kada jast dali jošdi kaj drugu ko se kupilo mjeso..."
+            intervals [31]:
+                xmin = 166.199
+                xmax = 168.612
+                text = " kakiv lazanje oti, lazanje, fuži..."
+            intervals [32]:
+                xmin = 169.827
+                xmax = 172.172
+                text = " Kde va se storilo? Ko znaš kaj je to?"
+            intervals [33]:
+                xmin = 172.19
+                xmax = 173.506
+                text = " Ne, ćete povjet."
+            intervals [34]:
+                xmin = 177.505
+                xmax = 179.969
+                text = " Nika slavenska beseda bi trebala bit za niki nadjev."
+            intervals [35]:
+                xmin = 181.15
+                xmax = 191.15
+                text = " Ponjer to je nika smesa katera drugder posviti, judi staviju kukošek. Kada kuhaju kukošek cile, natri staviju... odjev... drop od kukošek i ti ovane natri staviju ta nika smesa..."
+            intervals [36]:
+                xmin = 191.15
+                xmax = 196.607
+                text = " od jaj, sira, kruha, da bi je notri kako en priloh timu mesu."
+            intervals [37]:
+                xmin = 197.215
+                xmax = 200.286
+                text = " Poli nas ni bilo sagev od kukoše i ženske su znale zašit"
+            intervals [38]:
+                xmin = 200.877
+                xmax = 203.577
+                text = " od ruhe kako jenu ulitiću, kako jene..."
+            intervals [39]:
+                xmin = 203.746
+                xmax = 206.885
+                text = " Tuljak im not vi so nepunile ta ne deva, iskuhale sa ne deva,"
+            intervals [40]:
+                xmin = 207.391
+                xmax = 210.732
+                text = " u te rubi natri i polje su zrezali na fetiće."
+            intervals [41]:
+                xmin = 211.643
+                xmax = 214.411
+                text = " Trgu skavala ti ma... ne trgu skavali ma fešto ne devej!"
+            intervals [42]:
+                xmin = 220.553
+                xmax = 222.679
+                text = " A to ti prave, noći, to se storilo..."
+            intervals [43]:
+                xmin = 222.848
+                xmax = 225.582
+                text = " zavazan to se storelo."
+            intervals [44]:
+                xmin = 225.953
+                xmax = 229.733
+                text = " Poči politika bot tan kad su zne ženske znale storit kada se jem latil u ženica?"
+            intervals [45]:
+                xmin = 229.852
+                xmax = 233.21
+                text = " Anka to ni bila mala fešta kada je vas rivala u mlatir žitu."
+            intervals [46]:
+                xmin = 235.268
+                xmax = 241.073
+                text = " nisu bili regulani i obriti i profumani, kolko forši zavazani li za Božići li za Novo Leto, ma..."
+            intervals [47]:
+                xmin = 242.069
+                xmax = 246.355
+                text = " Senako su bili vešeri kada se kuerivalo se rezimu pred ražjon,"
+            intervals [48]:
+                xmin = 246.743
+                xmax = 256.743
+                text = " lipo umakinat, ispravit suhu žitu i ko je seba salo lišo i završit kopa od slame, a da ni priša daš, judi su si bili kontenti pa su si večer znali boc."
+            intervals [49]:
+                xmin = 256.743
+                xmax = 259.535
+                text = " zombat."
+            intervals [50]:
+                xmin = 259.94
+                xmax = 263.636
+                text = " U ono vrime kad san ja biv trok, tu je bilo jedan kad prvi maj,"
+            intervals [51]:
+                xmin = 263.956
+                xmax = 267.652
+                text = " I bilanka vela fešta. Večer pred prvim majom si znalo zapalit kres."
+            intervals [52]:
+                xmin = 268.057
+                xmax = 274.875
+                text = " A da, da ni bila direktiva ili se je ili se ni, tako je bilo. I ponjeru..."
+            intervals [53]:
+                xmin = 275.684
+                xmax = 280.071
+                text = " Zanim publike je bila vela fešta jer je velodvodni slobodno judi su prišli doma."
+            intervals [54]:
+                xmin = 281.27
+                xmax = 284.526
+                text = " Kako hot obrneš, sa ka fešte je dobra jer judi su od neh pri."
+            intervals [55]:
+                xmin = 290.315
+                xmax = 293.099
+                text = " A se nimi lo veturano bene, pravo je meni ki po konju livio."
+            intervals [56]:
+                xmin = 300.068
+                xmax = 302.312
+                text = " I oni su pričani s veturami. To je biv nano-trokon."
+            intervals [57]:
+                xmin = 302.549
+                xmax = 304.878
+                text = " a sam jeli bo šest sadan li, trjanan su bombi lo,"
+            intervals [58]:
+                xmin = 305.519
+                xmax = 306.801
+                text = " Ske nju jor, te nan bilav!"
+            intervals [59]:
+                xmin = 313.72
+                xmax = 323.221
+                text = " Da li se domišljate kad je došla prva vetura u selo da je neki... Prva vetura va sej je imev to niki pokojni oliviju ki je delav kopet, to se jast pametin, i bruno, to je kine rike..."
+            intervals [60]:
+                xmin = 323.339
+                xmax = 326.9
+                text = " Znač, jedva pametin to je moglo bit i ka deši sji ti sedme, osme..."
+            intervals [61]:
+                xmin = 331.27
+                xmax = 335.185
+                text = " Pa res se spametnem da su veture prišle, prišle su sa kamioni,"
+            intervals [62]:
+                xmin = 335.877
+                xmax = 339.336
+                text = " Zato što je dom, je bi otkuput čarešanj, otkuput krek,"
+            intervals [63]:
+                xmin = 340.433
+                xmax = 342.543
+                text = " grojza ili bo znan da zapiše kamioni."
+            intervals [64]:
+                xmin = 343.623
+                xmax = 347.015
+                text = " Čarešnje zoda su prišli zjeti z poli, z rigepih su prišli kamioneti."
+            intervals [65]:
+                xmin = 347.572
+                xmax = 348.601
+                text = " Oni kamioncini..."
+            intervals [66]:
+                xmin = 349.006
+                xmax = 352.55
+                text = " I vadi kade za prvi maj je vresno znali bit, ji bi znal bit otkopu ča rešat."
+            intervals [67]:
+                xmin = 354.659
+                xmax = 359.84
+                text = " A kres? To ste za prvi maj... a u šesten mesecu ste... Zoj vanja san ga znav da storit, samo..."
+            intervals [68]:
+                xmin = 359.958
+                xmax = 369.172
+                text = " Ne zna, ni to bilo... Tupoli krušvoru ni bilo... Jast san napor bov tis štoriš tupido kako san ki san ivan pa san kapov cija zajvanja zna storit."
+            intervals [69]:
+                xmin = 370.15
+                xmax = 375.044
+                text = " Ben ton prije, tako zapali ka po storu sejeno di kaj tako jemo. Provode je bilo organizirano za jivanja..."
+            intervals [70]:
+                xmin = 375.196
+                xmax = 381.659
+                text = " Ne. Dobro. I sad..."
+            intervals [71]:
+                xmin = 382.165
+                xmax = 391.531
+                text = " Zadaća... Ne, ne manka su dobili kres ovo-ono, popolnje su se, kako su hodili skupa škula, gledali čegov će vojn bit veći vrhovski, brežanski, naš..."
+            intervals [72]:
+                xmin = 393.978
+                xmax = 395.784
+                text = " Tega foršenikuliku se jato velo..."
+            intervals [73]:
+                xmin = 396.29
+                xmax = 400.019
+                text = " Ma to si bar super zapustila, prona da ven je bolen oben za parimajtu, neopoli bar en..."
+            intervals [74]:
+                xmin = 400.306
+                xmax = 401.639
+                text = " Nevirin prepar lit."
+            intervals [75]:
+                xmin = 402.112
+                xmax = 403.462
+                text = " Vi duna ben to vori!"
+            intervals [76]:
+                xmin = 404.238
+                xmax = 406.651
+                text = " Spominjali da je bila velika fešta kad je bila..."
+            intervals [77]:
+                xmin = 406.735
+                xmax = 413.063
+                text = " Kad je makinja došla u selo za žito i to, se domislite kako je to izgledalo, kako ste makinjali?"
+            intervals [78]:
+                xmin = 415.021
+                xmax = 417.215
+                text = " Najpraji su spamedni i su vukli makina"
+            intervals [79]:
+                xmin = 418.885
+                xmax = 422.176
+                text = " Šijen por volje prevuka makena i drugi por volje prevuka vus,"
+            intervals [80]:
+                xmin = 422.986
+                xmax = 428.015
+                text = " Na vazu hor je biv motor"
+            intervals [81]:
+                xmin = 429.01
+                xmax = 433.381
+                text = " Valo kola je melo vore i to su negako baktele... to je mije niki fjorin od prudano."
+            intervals [82]:
+                xmin = 433.567
+                xmax = 436.284
+                text = " To fjorino trudno da bi biv moji pokojni materi niki zrman."
+            intervals [83]:
+                xmin = 437.836
+                xmax = 440.586
+                text = " i on je prišao semo i z njim je biv sin."
+            intervals [84]:
+                xmin = 442.679
+                xmax = 446.729
+                text = " Nekaj me je vi presaugav ta motor pa to ča se virabjav... To se spameću, to su..."
+            intervals [85]:
+                xmin = 446.78
+                xmax = 448.316
+                text = " One, naj... naj..."
+            intervals [86]:
+                xmin = 451.91
+                xmax = 455.977
+                text = " kada se dišava do stena. Čto čovike priša i to se marilo važgat niki čiket."
+            intervals [87]:
+                xmin = 456.533
+                xmax = 465.713
+                text = " Važvilo se nike se zmoću na nafta, zmoću užarilo se niki kjuč. I to kada se jako steplilo, se stavilo natri, pa tamo kada je baš jevala nafta, i por su mrteli..."
+            intervals [88]:
+                xmin = 466.253
+                xmax = 471.45
+                text = " kolu, bez kompresije, i pojri kada se je kolu dosta zavrtelo, nikod su zaprli to mentil,"
+            intervals [89]:
+                xmin = 472.16
+                xmax = 473.999
+                text = " Puf, puf, to je počelo pocat i delat."
+            intervals [90]:
+                xmin = 474.522
+                xmax = 478.538
+                text = " I ponjer to motor je priku posa je vrtiv makina i vori se hita losno."
+            intervals [91]:
+                xmin = 480.698
+                xmax = 485.187
+                text = " Gor je bila nika ženska vajka ki je rezala pase. Ima ke nište kar gav natriju ta..."
+            intervals [92]:
+                xmin = 485.66
+                xmax = 493.203
+                text = " U to tamburu je krgav nadri ta činica i opet tam je bila cila ekipa. Drugi kraj ki su pobirali je z vilami ća slama."
+            intervals [93]:
+                xmin = 493.709
+                xmax = 495.903
+                text = " Niki mora čisit pleve da ne zasipiju, a god sam..."
+            intervals [94]:
+                xmin = 499.868
+                xmax = 506.871
+                text = " ni bi glav ni makiništama ke je biv, kako bimo rekli, gospodar od makine, ov je pezav i gospodar je biv nepoli pezav se pezav koliko..."
+            intervals [95]:
+                xmin = 507.952
+                xmax = 511.749
+                text = " Kovi kočenici je šlo van? Kolike bilo prve klaše, kolike bilo druge, kolike bilo tare i tako..."
+            intervals [96]:
+                xmin = 512.373
+                xmax = 515.967
+                text = " Dali se primisli odbrilike do kad se delalo tako s ton makinjon..."
+            intervals [97]:
+                xmin = 516.102
+                xmax = 521.772
+                text = " Ponaje, jast i moj prijatelj Imiru Durihu smo imeli ena dvi leta makina od nikija pokojniga zaneteta."
+            intervals [98]:
+                xmin = 522.329
+                xmax = 523.477
+                text = " Pokojni sanjeto je biv tako..."
+            intervals [99]:
+                xmin = 527.408
+                xmax = 528.606
+                text = " Dosta poduzetan."
+            intervals [100]:
+                xmin = 529.703
+                xmax = 533.534
+                text = " I on je imev traktor i imev makin, vršalica."
+            intervals [101]:
+                xmin = 534.158
+                xmax = 538.782
+                text = " Ve šali se ni kataljanska, ni bila vela i je bila stara i ni bila baš zbro održavana."
+            intervals [102]:
+                xmin = 539.086
+                xmax = 541.043
+                text = " Iš nji je videla pastorak niki Danilo"
+            intervals [103]:
+                xmin = 541.972
+                xmax = 545.128
+                text = " I to do pastora ki pojeršavi vat u Australija i..."
+            intervals [104]:
+                xmin = 545.431
+                xmax = 546.562
+                text = " Maknje stale hrmana."
+            intervals [105]:
+                xmin = 547.27
+                xmax = 551.067
+                text = " Jedno leto je bilo da tih makinj na okule ni bilo čuda da se moreu čuda čakat i..."
+            intervals [106]:
+                xmin = 552.991
+                xmax = 556.737
+                text = " prijatelj Emil, ki je bisose do tega tupoli urihu, en kilometru,"
+            intervals [107]:
+                xmin = 557.243
+                xmax = 562.44
+                text = " Od tega saneteta je te govori saneteton da on posadi na traktori vašalica,"
+            intervals [108]:
+                xmin = 562.947
+                xmax = 566.862
+                text = " I da mi gremo obavit da zmakenjamo njegovu našu..."
+            intervals [109]:
+                xmin = 567.655
+                xmax = 572.076
+                text = " Na nać miće monjegove našo zmakinjavis monjegov, zmakinjavis mo naš, porad smo zmakinjav cila vas..."
+            intervals [110]:
+                xmin = 572.853
+                xmax = 578.152
+                text = " kupuli pašutić, jer to sanito je rojen od pašutica, mešan da... ok. Bon. I..."
+            intervals [111]:
+                xmin = 578.27
+                xmax = 582.708
+                text = " A kad smo zmakinjali sila vas, se na osan-devet metri smo mitu letu zmakinjali nas zva, klinci!"
+            intervals [112]:
+                xmin = 583.248
+                xmax = 584.294
+                text = " 19 važet lit."
+            intervals [113]:
+                xmin = 585.695
+                xmax = 595.533
+                text = " Sma to, ta makina popravili. Kada se nige razbilo, smo to zašmajsali, ramatinali i pokoni zaneteni kontent. San kontent, ma nići, dan ga pokažu, dan ga zanetu to ordinanji..."
+            intervals [114]:
+                xmin = 595.735
+                xmax = 597.085
+                text = " More delat poporabe!"

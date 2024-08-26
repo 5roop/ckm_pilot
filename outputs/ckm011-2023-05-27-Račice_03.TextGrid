@@ -1,0 +1,302 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 589.587
+tiers? <exists>
+size = 1
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "miciprinc"
+        xmin = 0
+        xmax = 589.587
+        intervals: size = 72
+            intervals [1]:
+                xmin = 0.031
+                xmax = 10.031
+                text = " fameavanje... To će van poveć još. Reć me. Kada je dikibiv rabuto i kada niso znali š njin koko prićne kraj..."
+            intervals [2]:
+                xmin = 10.031
+                xmax = 20.031
+                text = " A, recimo, so mladići kateri so se inače, drugačjan, bi bili potukli, ma se jemeli hitit oko nekake nikajine, pa i jušto ni šlo u račun da jušto..."
+            intervals [3]:
+                xmin = 20.031
+                xmax = 27.554
+                text = " Na nas, diki Dela Barofa, a diki je juš u te Dela Barofa na se sile, su da dva triće bali su zahitili nehrbat negraja."
+            intervals [4]:
+                xmin = 28.128
+                xmax = 38.128
+                text = " Moška je groja. Kako groja? E, groja, puno trnja i leža brišan koliko i susne križu do jutra dok ti kini priša ga izvuć van. I tamo je morak ko se ga navke počelo..."
+            intervals [5]:
+                xmin = 38.128
+                xmax = 48.128
+                text = " Dobole ti bos! Ta me pijan zaspav i bat se viselin. Fameja van je bila velika, ovaj, mislin, rodbina, da li je materi kolika..."
+            intervals [6]:
+                xmin = 48.128
+                xmax = 52.597
+                text = " Po bojenu ća je nev još dvi sajstri i tri brate."
+            intervals [7]:
+                xmin = 54.014
+                xmax = 64.014
+                text = " A pokojna mat je imela još ene sestre i anka tri brate. Znači, pokojni mat, put je jih je bilo šest, po materi pet. Jema ki odrodo..."
+            intervals [8]:
+                xmin = 64.014
+                xmax = 73.336
+                text = " Bine da je ša u Meriko ili su svi, ne znan kade drugderi... Ni kade nas ni bilo. En moj pokojni barba ki ime ime prezime kako jast je biv u Australji."
+            intervals [9]:
+                xmin = 74.551
+                xmax = 84.551
+                text = " Oj je prtežan. Utopčinav še šnaj slit ili na kane i barbeti stariji kateri...ne barbeti moji nivu...barbeti kateri su rukovodni..."
+            intervals [10]:
+                xmin = 84.551
+                xmax = 94.551
+                text = " Podeli su pokretom. Sujzeli, kad je bila Romilova ofanziva, pustili su jih nek tamo, ten neka, en čopor teh utroki na tir o Nemconi. Stari drugovi su i niki."
+            intervals [11]:
+                xmin = 94.551
+                xmax = 104.551
+                text = " su se skrili, po boškah ušli doma čuvat tikre i tamo ta ekipa je ostala, jedva je prnasa doma živa vlava. Kada je čim je finila vojska, je ušov trs."
+            intervals [12]:
+                xmin = 104.551
+                xmax = 109.01
+                text = " I ponjeri stresa je ša ostralj. Doli bi prigo dvajset lit. Kaj mu se doli desilo ne znan?"
+            intervals [13]:
+                xmin = 109.904
+                xmax = 119.904
+                text = " Neka dešterija, vaća život ne je trebala biti. Ponje je pišan u trsi. U trsi je oper neka ošterija. Nisi bi nika ženi ni ti mi otroke."
+            intervals [14]:
+                xmin = 119.904
+                xmax = 127.842
+                text = " u Australiji. A od mujega pokojeniga, od matere pokojene, njeni barbeti,"
+            intervals [15]:
+                xmin = 128.315
+                xmax = 133.833
+                text = " Načinjena teta je bila j navov u Argentini uženjena za negija čoveka iz Dragudske vale."
+            intervals [16]:
+                xmin = 134.322
+                xmax = 144.322
+                text = " I ponjer je storla pri doli si anka mlaje sestre. Tadika jina je imela jena poršip, kazan, šešnajstad anajst lit kada je šla doli te sestre. Ine brodi..."
+            intervals [17]:
+                xmin = 144.322
+                xmax = 150.944
+                text = " Trne vapori kad su šli z dulin, si je našla z nekin čovekon iz ročkiga poja i po njoj su stali cin život skupa."
+            intervals [18]:
+                xmin = 151.872
+                xmax = 161.872
+                text = " Imeli su niga sina, to je bine ki je Riko. Rike je imev... doli je biv delav... ne zon kaj bi delav... imeli smo ka njegova slika. "
+            intervals [19]:
+                xmin = 161.872
+                xmax = 161.93
+                text = " Hvala vam!"
+            intervals [20]:
+                xmin = 162.233
+                xmax = 172.233
+                text = " A sinu tega je Rikeja, dela u argentinski aviokompaniji i, ni ne znan dal je pilot, ali je učlan posade, znači napr. u kabini, dal je što se jastavlja."
+            intervals [21]:
+                xmin = 172.233
+                xmax = 182.233
+                text = " ne znan kaj, uglavnom kada su prišli en bot u Nemačka, je iz Nemačke rivav noć načine prišlo semo u bajnostu. Ialka nike slike su, barba dušan keba."
+            intervals [22]:
+                xmin = 182.233
+                xmax = 192.233
+                text = " doma kod kade je pokojna matra, ima slike kada je tketo čovjek vito pole nas. A ča su dohajali s teš jodke? Anka ta teta, ena od teh tetke je sašla je Argentina. Poljar vojske je bila prije."
+            intervals [23]:
+                xmin = 192.233
+                xmax = 192.794
+                text = " Više ne."
+            intervals [24]:
+                xmin = 193.098
+                xmax = 193.452
+                text = " Mhm."
+            intervals [25]:
+                xmin = 194.093
+                xmax = 194.38
+                text = " Hrm."
+            intervals [26]:
+                xmin = 194.802
+                xmax = 204.802
+                text = " I kako kad je vela vojska, dugo vrimena se ni znalo ka je i ponjer je... I bilo prišu nek koroni sjedmen, nigo pri smoku, iniki živ. Kako ste pasali, javite koč su stali oni zrani tih..."
+            intervals [27]:
+                xmin = 204.802
+                xmax = 208.369
+                text = " I rube, i pustoli, i sega je bilo."
+            intervals [28]:
+                xmin = 208.893
+                xmax = 218.893
+                text = " Tako po te plesi, ča se najvi... A, a, pomalan, udmuje matere barba, jedan je biv... barba za niti ćan govorit..."
+            intervals [29]:
+                xmin = 218.893
+                xmax = 226.139
+                text = " To je bivan, to su zafrigan judi! Je biv mali i nise goteli zet austrijska vojska. I uš avionu Merika."
+            intervals [30]:
+                xmin = 228.755
+                xmax = 238.755
+                text = " Ušavčav je Amerika, nech prinog je počet vojska prva još pod Avstrija, i tamo je se spančav ili, bimo rekli, ni nika baš rena šičanska pesika."
+            intervals [31]:
+                xmin = 238.755
+                xmax = 248.755
+                text = " Sedali se s patakonavzniku dika jinu ki ju ća jeme nikakava. I, va, to... Ti moren jast dat kopije! Iman kopiju od pisma ki je pisav mjer devetso dvajset drugiga"
+            intervals [32]:
+                xmin = 248.755
+                xmax = 258.755
+                text = " leta iz Besemera, Mičigen, doma, letara uće, da je zakapa šestu judi. Znači, je biv poslovo čavrudniki, šestu judi je mev koko..."
+            intervals [33]:
+                xmin = 258.755
+                xmax = 268.755
+                text = " Nika, ona nika... I vajki je slav. Poli barbe ta poli pa šutic, kiša so storili dvajset i nekiga leta, šodik je onput slav. Barba jako mo... To bi bilo..."
+            intervals [34]:
+                xmin = 268.755
+                xmax = 277.912
+                text = " Barva mu je pokojni materi je biv koko niki privoznik de nas je biv. I vajke hudi neokoli z voli. Ni baš čuda varuv te vole."
+            intervals [35]:
+                xmin = 278.435
+                xmax = 288.435
+                text = " I kako je kad je rivov krepav su pisali, dragi brat, voli su našli slabo, dragi brat je poslav za štire pore voli, ne zem por voli, tako dovni su, kada se tiče teške,"
+            intervals [36]:
+                xmin = 288.435
+                xmax = 298.435
+                text = " i kupili se kampanje i storili hiša na račun tega brata ke je biv... ne znamo! Niti dali je biv ženje, niti dali je metroke, ni se znalo."
+            intervals [37]:
+                xmin = 298.435
+                xmax = 308.435
+                text = " nek sedandeset jih litje vi priša niki glas da je omer, ali nimamo već nič, nikakova, bimo rekli, zaostavštena ni priša od njega sejmo... Znači on ne..."
+            intervals [38]:
+                xmin = 308.435
+                xmax = 310.852
+                text = " Ni do hajad. Ne! Onibri ša ne cimu."
+            intervals [39]:
+                xmin = 312.708
+                xmax = 320.504
+                text = " I bili su još niki brati, jedan i dva su bili u vojski. Ne, u Argentini je bio još niki mladi, niki luvić, pokojni luvić, ovajan ša doli."
+            intervals [40]:
+                xmin = 321.196
+                xmax = 328.064
+                text = " Anka dela tali doli bi dobi španjolska groznica jebi omr doli mlat, to će bit mednaest dvajset lit. Edan je priša iz..."
+            intervals [41]:
+                xmin = 330.038
+                xmax = 340.038
+                text = " Jedva rivah pridu kotli, i s kotlin i rivah hude zhorin. Se domarali po jesedne čavirah. Jednako ne na par dan je bi omer i zakupan vračicah. I jedan je ostao u galicu. "
+            intervals [42]:
+                xmin = 340.038
+                xmax = 350.038
+                text = " niki barba bepu. On je treba bit kovač. On je treba bit strojar, tako popo jast. I posla doma hartolina otud i po gazatu. Nepijiš j na petnajsti dvanajsi..."
+            intervals [43]:
+                xmin = 350.038
+                xmax = 359.907
+                text = " A najstim jar 915. lete je pisav doma hartolina si bratu temu loviću ki je po romeru u Argentini, jim je to lović pisav njimu ki pordan po njini poginav valici."
+            intervals [44]:
+                xmin = 362.573
+                xmax = 372.573
+                text = " To je vlo... to je nasibilo seapose. Ti ka teri so bili tu, trste... to neću tinak govorit. Da, dobro, to je sva ka famija jimaka, te tu blizu."
+            intervals [45]:
+                xmin = 372.573
+                xmax = 382.573
+                text = " Da. Kad ste spominjeli prvo te pleze, ča se j najveć svivilo? Ča se svirilo italijansko muziko? Domać ste do misti da su foši svirili na roženice, domać... Tako kad je bila vojska."
+            intervals [46]:
+                xmin = 382.573
+                xmax = 392.573
+                text = " Italija je zabranila javna okupljanja. Sad ja opet ne govoren račišćanskin, nigo nekaj... ali u račišćanskin... Neke bese ne fali. ...ni javniga okupljanja."
+            intervals [47]:
+                xmin = 392.573
+                xmax = 402.573
+                text = " Bimo rekli postarinskiv su zabranili ples. Nisu pustili da se dela ples. Judi su se prs našli tudoli pod kortina. Je nika boškica. Je imole bilo rabo."
+            intervals [48]:
+                xmin = 402.573
+                xmax = 412.573
+                text = " glatku, a okoli su bili borići za rašćinu. I natri, ponje deje, ponje maše, tamo su se zbrali i soklecali netihu, z ramoniku, neš ne brš jan,"
+            intervals [49]:
+                xmin = 412.573
+                xmax = 422.573
+                text = " I mlado je se plesali, nikad je, dup prama škorimu i prama škorimu su šli doma, za pridoma dok je vi bilo vište. Ti tamo iste boške, ko si čaga da prideš skoru, si je mobi doma."
+            intervals [50]:
+                xmin = 422.573
+                xmax = 431.136
+                text = " Samo s feralon. Su bili trozi, ni bilo švalta, trebali pa sa prigu potoka. Ko nisi vidi, ko nisi ša pod nevu, nisi mogo pojdo. Biv je mora spat tamo."
+            intervals [51]:
+                xmin = 431.862
+                xmax = 432.537
+                text = " A ponjer?"
+            intervals [52]:
+                xmin = 435.389
+                xmax = 443.286
+                text = " E, tako, en moj prijatelj z ragućem je povedav, od Ragucki vali je priša doma jedmo žigant iz vojske ki je z nas upet samo fačeta nera."
+            intervals [53]:
+                xmin = 445.177
+                xmax = 450.982
+                text = " I to se ne vadi kvajcat na ramonike, ta fačeta ne raj, to je jena melodija ki se na nju moglo blesat."
+            intervals [54]:
+                xmin = 451.792
+                xmax = 461.792
+                text = " Pasala je vojska i fačeta neravet ni bila poželjna. I ti mnodići su prišli, co mov je za plisat, i to je poček vecar. I prišli su drugovi. Kaj je to?"
+            intervals [55]:
+                xmin = 461.792
+                xmax = 464.516
+                text = " To je reakcija. To, ono, ne može!"
+            intervals [56]:
+                xmin = 465.342
+                xmax = 467.721
+                text = " Sahitri dragućani, kur čada če van, ko je nemoj!"
+            intervals [57]:
+                xmin = 470.877
+                xmax = 480.877
+                text = " Oni su teli plesak, nji je faliv ples, njin se je živo frigolo za mačet tonera i druže tito. Oni bi bili plesali. To je znak ko je sad dobro samo to."
+            intervals [58]:
+                xmin = 480.877
+                xmax = 485.373
+                text = " A ponjer, ka jast? Jast se spametin, recimo, plesale so je..."
+            intervals [59]:
+                xmin = 487.094
+                xmax = 497.094
+                text = " Tu polikrošvoru smo bili... ka jast znan... lagko je to ćabaš tanco od svita, ali... kada se tičete mužika, to nisam jušto bili čuda za svito."
+            intervals [60]:
+                xmin = 497.094
+                xmax = 498.215
+                text = " Ja se spametin..."
+            intervals [61]:
+                xmin = 499.649
+                xmax = 500.948
+                text = " Dobro, radio je pomogav čuda."
+            intervals [62]:
+                xmin = 502.045
+                xmax = 512.045
+                text = " Kapiš, prišav je niki pokojni sosedniki u Liviju ke j delav kupre. On je prišav doma. Nedeja v jutru. On je važgav radio i čist je vetura. Tepeh je prav vetur."
+            intervals [63]:
+                xmin = 512.045
+                xmax = 519.342
+                text = " jura, jutro osmi uri, ne tanke de belo, radio pola, satulili, jure i frane, ne tanke de belo."
+            intervals [64]:
+                xmin = 519.983
+                xmax = 529.983
+                text = " To ne tanko je da velo kantat ni mužika katera je tu puli-nast puli, prušavalo jako doma. Ma, harik, stori judi so kantali to! Tamo doli dvi naranče i takove, niki piševeri, karlovi..."
+            intervals [65]:
+                xmin = 529.983
+                xmax = 539.983
+                text = " neke zaneto šahtare o durih, to nisi jast san postučak da je to doli butigi i radiopole jih je prišla snimat. Kada su jih snimali, se jih nam ka pustili."
+            intervals [66]:
+                xmin = 539.983
+                xmax = 544.806
+                text = " to je store strajanska mužika, a livre poli nas je bila pomalon..."
+            intervals [67]:
+                xmin = 545.617
+                xmax = 555.617
+                text = " pasana ud ramonike, ud polnke, ud valcera, ud mužike slovenske, ud mužike austrijske, ud mužike taljanske..."
+            intervals [68]:
+                xmin = 555.617
+                xmax = 559.421
+                text = " Stulit ili već pod Austrija hodili negamo sodaton."
+            intervals [69]:
+                xmin = 560.72
+                xmax = 565.529
+                text = " kuli su na to sosretili mađare, austrijance, taljane, nemce,"
+            intervals [70]:
+                xmin = 567.082
+                xmax = 573.309
+                text = " Kiš, računaj, od Venecije du gori la vova... U Ukrajini... Saj je bila Ostrovorska."
+            intervals [71]:
+                xmin = 573.747
+                xmax = 583.747
+                text = " I ti si polisodaton kada je prišav ojnunu, on je bi polisodato i biš njin taljan iz trsta, i biš njin čeh, i slovak, i ukrajinac, i nemac, i slovak."
+            intervals [72]:
+                xmin = 583.747
+                xmax = 588.293
+                text = " i serbijanac, i bosanac iz Bosne. Kapiš? Tako da, judi su osagderi..."

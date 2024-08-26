@@ -1,0 +1,234 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 334.616
+tiers? <exists>
+size = 1
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "miciprinc"
+        xmin = 0
+        xmax = 334.616
+        intervals: size = 55
+            intervals [1]:
+                xmin = 0.537
+                xmax = 2.866
+                text = " Evo, gledaj, ste počuli za školo, kako ni bilo..."
+            intervals [2]:
+                xmin = 3.119
+                xmax = 5.785
+                text = " Ja ni bilo nič nič. Se domišljan..."
+            intervals [3]:
+                xmin = 6.005
+                xmax = 8.131
+                text = " da je pokli prišla nika mištrovica"
+            intervals [4]:
+                xmin = 8.283
+                xmax = 12.654
+                text = " ka je brižna bila mučna jer san ja poklila bila mštovina."
+            intervals [5]:
+                xmin = 19.285
+                xmax = 21.934
+                text = " Jedan dan je naredila neka se navadimo,"
+            intervals [6]:
+                xmin = 22.829
+                xmax = 25.748
+                text = " po hrvatski. Jel smo mir šali?"
+            intervals [7]:
+                xmin = 26.187
+                xmax = 29.326
+                text = " Italijanski, čakavski, ali nismo kapili."
+            intervals [8]:
+                xmin = 29.697
+                xmax = 31.131
+                text = " Ono ča jenam borila."
+            intervals [9]:
+                xmin = 35.114
+                xmax = 36.886
+                text = " Drugi dan ja san šlanuone."
+            intervals [10]:
+                xmin = 37.409
+                xmax = 39.417
+                text = " I ona je... no, ona ča tijeto?!"
+            intervals [11]:
+                xmin = 39.839
+                xmax = 42.016
+                text = " To je kopić, je reklam."
+            intervals [12]:
+                xmin = 42.32
+                xmax = 47.534
+                text = " Drugi dan san prišla va školu, san digla ruk i san rekla... jast san se navadila..."
+            intervals [13]:
+                xmin = 61.051
+                xmax = 66.687
+                text = " kao trok san se usudila zafrkavat. E! Tako je to bilo."
+            intervals [14]:
+                xmin = 68.425
+                xmax = 71.142
+                text = " I onda smo dobili libri i tu smo sličali."
+            intervals [15]:
+                xmin = 71.547
+                xmax = 72.661
+                text = " Tu je počela sejet."
+            intervals [16]:
+                xmin = 72.931
+                xmax = 78.179
+                text = " zidat škola po ruskom sistemu na samljišću kornari sjedmiga leta."
+            intervals [17]:
+                xmin = 79.107
+                xmax = 82.178
+                text = " Svi su hodili na takmi čijenje, si su peljali."
+            intervals [18]:
+                xmin = 82.28
+                xmax = 83.917
+                text = " na vozah sopeljali."
+            intervals [19]:
+                xmin = 84.912
+                xmax = 93.164
+                text = " Drijevo, sopeljali groti, sopeljali vodo, si smo pomogli, ali za dva-tri leta je bilo storeno samo dvije učionice."
+            intervals [20]:
+                xmin = 93.535
+                xmax = 95.138
+                text = " I tu smo bili preselili."
+            intervals [21]:
+                xmin = 95.577
+                xmax = 98.429
+                text = " a va razrade je bilo po sedandeset."
+            intervals [22]:
+                xmin = 100.977
+                xmax = 109.077
+                text = " A se domišljan moja razenica je vak povijedala, ljubica šonje je povijedala kako ovaj... zapravo reć nanke ni videla."
+            intervals [23]:
+                xmin = 109.482
+                xmax = 113.346
+                text = " a razidah ča su bili jedan do drugiga glava do glasa."
+            intervals [24]:
+                xmin = 114.055
+                xmax = 119.404
+                text = " Ali morala je delat. Pa kako je zgledao to toliko di?"
+            intervals [25]:
+                xmin = 122.645
+                xmax = 129.243
+                text = " Moje bi neki neposlušan. A lina ću ovako uzavši... Svi su bili poslušni. Tihi..."
+            intervals [26]:
+                xmin = 138.035
+                xmax = 147.4
+                text = " U drugom, trećem razdedu, četrtem razdedu smo već imeli libri. Doduše smo se vadili i po ruskom sistemu, ali smo već imeli libri."
+            intervals [27]:
+                xmin = 148.312
+                xmax = 151.451
+                text = " E, sad da vam povijen je noć to ka je jako važno."
+            intervals [28]:
+                xmin = 161.288
+                xmax = 162.115
+                text = " la tu je mila sebi."
+            intervals [29]:
+                xmin = 166.469
+                xmax = 170.468
+                text = " Prastega razida poklju si mora poć va pazin... Pazin je zafini tu nazad."
+            intervals [30]:
+                xmin = 171.498
+                xmax = 172.78
+                text = " Pa san finila prvi put."
+            intervals [31]:
+                xmin = 173.219
+                xmax = 174.4
+                text = " Bik bila šlava pazi."
+            intervals [32]:
+                xmin = 174.805
+                xmax = 176.374
+                text = " Vadon, moja mati rekla..."
+            intervals [33]:
+                xmin = 176.864
+                xmax = 178.889
+                text = " Nanke ku se Jugoslavije zruštu."
+            intervals [34]:
+                xmin = 183.901
+                xmax = 189.639
+                text = " To je bilo ono vrjeme. To su bile pedeset... A, ženska ne daj boh ća doma!"
+            intervals [35]:
+                xmin = 190.347
+                xmax = 195.984
+                text = " Drugi put san šla va školu da ni zustanen doma jer ja nisan mogla zamislit da ću bit..."
+            intervals [36]:
+                xmin = 200.489
+                xmax = 207.526
+                text = " Paljali su nas na izlete va Zagreb, va to, tako. Smo imeli jako dobri meštri ki su prišli."
+            intervals [37]:
+                xmin = 211.829
+                xmax = 215.255
+                text = " ...čvi spodravine i tako vaš... A jo! Zač su sve kapilike?"
+            intervals [38]:
+                xmin = 219.558
+                xmax = 225.177
+                text = " kapiti čaka skudicu. Nis mogli. Žmin je bi razrušen. Još i da nasmih je žal."
+            intervals [39]:
+                xmin = 227.995
+                xmax = 229.311
+                text = " kretu, nibilo,"
+            intervals [40]:
+                xmin = 229.75
+                xmax = 235.201
+                text = " natječaja ili tako nešto, nego ti greštamo, ti greštamo, upazinu jebineke."
+            intervals [41]:
+                xmin = 239.977
+                xmax = 244.128
+                text = " Načaj bi u kamenu otac?"
+            intervals [42]:
+                xmin = 244.583
+                xmax = 245.832
+                text = " I oni hjerasporidi."
+            intervals [43]:
+                xmin = 249.511
+                xmax = 252.819
+                text = " I po privatnih kućah su brižni morali spati, jesati..."
+            intervals [44]:
+                xmin = 253.105
+                xmax = 254.185
+                text = " Ko je kizi?"
+            intervals [45]:
+                xmin = 265.289
+                xmax = 271.33
+                text = " Oni put su bili Italijani iz Kalabrije, si Čilije, iz Napolije i tako sad su prišli."
+            intervals [46]:
+                xmin = 271.583
+                xmax = 274.536
+                text = " Obi... Za... zo ši z druja kraja..."
+            intervals [47]:
+                xmin = 274.739
+                xmax = 281.27
+                text = " A kako ste treti put hodili u šesti raz... A treti put zato ča drugi put, kad san finila drugi put, je priša..."
+            intervals [48]:
+                xmin = 281.573
+                xmax = 294.264
+                text = " Moj ravnatelj, danas bi se reklo ravnatelj, upravitelj doma je rekao Znate da će se otprit važminje osmogodišnja škola. Jer su pedeset i trete bili finili to školo."
+            intervals [49]:
+                xmin = 294.5
+                xmax = 303.039
+                text = " Po ruskon sistemu je imela sedan učionica. To je bilo velo, to je bilo lijepo. Parkete smo imali, kaljeve, peći, to je bilo luko."
+            intervals [50]:
+                xmin = 305.384
+                xmax = 308.0
+                text = " govorilo da je najljepča škola vako tare pazne."
+            intervals [51]:
+                xmin = 309.755
+                xmax = 311.898
+                text = " Jereka bi bilo dobro da vil magre."
+            intervals [52]:
+                xmin = 311.982
+                xmax = 318.04
+                text = " va tu školu. Dobro ku bude va žminje jast,"
+            intervals [53]:
+                xmin = 319.171
+                xmax = 324.942
+                text = " ali treti put va šesti razred i mora poć polagat u pazinsku gimnaziju prijemni isti."
+            intervals [54]:
+                xmin = 325.921
+                xmax = 331.995
+                text = " Za poću u šesti razet osmogodišnji školi. Tako da san ja tri puti bila..."
+            intervals [55]:
+                xmin = 332.013
+                xmax = 334.105
+                text = " Dobro, lepo."

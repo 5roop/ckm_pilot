@@ -1,0 +1,162 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 315.211
+tiers? <exists>
+size = 1
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "miciprinc"
+        xmin = 0
+        xmax = 315.211
+        intervals: size = 37
+            intervals [1]:
+                xmin = 0.47
+                xmax = 3.406
+                text = " Se da se udavu mene dobri..."
+            intervals [2]:
+                xmin = 3.457
+                xmax = 4.216
+                text = " Povidala"
+            intervals [3]:
+                xmin = 5.212
+                xmax = 6.866
+                text = " na neka ženska..."
+            intervals [4]:
+                xmin = 7.388
+                xmax = 8.434
+                text = " Ne ki jav nijem!"
+            intervals [5]:
+                xmin = 36.38
+                xmax = 37.713
+                text = " Bila je na žinska..."
+            intervals [6]:
+                xmin = 50.808
+                xmax = 57.996
+                text = " je rekla da je plinska komora da je dalek."
+            intervals [7]:
+                xmin = 58.334
+                xmax = 59.701
+                text = " I nas grada da se..."
+            intervals [8]:
+                xmin = 62.789
+                xmax = 63.548
+                text = " Juta, plin!"
+            intervals [9]:
+                xmin = 64.139
+                xmax = 66.535
+                text = " Laki dan! Fejan mi je!"
+            intervals [10]:
+                xmin = 75.867
+                xmax = 77.723
+                text = " One bilo li e baj uno bot..."
+            intervals [11]:
+                xmin = 78.736
+                xmax = 85.722
+                text = " Bila stareja, mi je sveto povjedala i plakala kad mi je povjedala. Njo su očista!"
+            intervals [12]:
+                xmin = 98.007
+                xmax = 99.711
+                text = " I da ne je a ne blin bizna!"
+            intervals [13]:
+                xmin = 100.15
+                xmax = 101.838
+                text = " I ča smo rekli za neven korak?"
+            intervals [14]:
+                xmin = 106.613
+                xmax = 108.622
+                text = " Čao, der se..."
+            intervals [15]:
+                xmin = 109.28
+                xmax = 110.681
+                text = " Ne even ko zvadi vano..."
+            intervals [16]:
+                xmin = 111.608
+                xmax = 152.969
+                text = " Kad je zna da hi peje u Nemačku, puta daho ča jen dan, je ju ozvanivan. Da je bolna, da je bolnico i sve, je ustala živa. I pole, one... oj pa, te fašiste so sve ponovili. Kad je to bilo finilo, tamo su šli na niki otok i sve zajno umata un, oniga, onigi zatvor. I Ciril je ša tamo..."
+            intervals [17]:
+                xmin = 155.062
+                xmax = 157.357
+                text = " A daj fašista daj spasinje!"
+            intervals [18]:
+                xmin = 159.28
+                xmax = 160.394
+                text = " I da neka ga puštio."
+            intervals [19]:
+                xmin = 166.638
+                xmax = 168.646
+                text = " A mene pijero me zovit."
+            intervals [20]:
+                xmin = 170.384
+                xmax = 171.616
+                text = " Mježni."
+            intervals [21]:
+                xmin = 179.48
+                xmax = 180.948
+                text = " Va, di fašiste, va!"
+            intervals [22]:
+                xmin = 186.803
+                xmax = 197.704
+                text = " Tu bivali su doh lisi skrvav jemni rok, amni pulic rijeku, ča smo rekli, ono je, i ga je zvadi van."
+            intervals [23]:
+                xmin = 197.873
+                xmax = 199.746
+                text = " Još da na nas foš je živ..."
+            intervals [24]:
+                xmin = 200.438
+                xmax = 216.149
+                text = " Justa ta fašista i išća penziju, uniga i sve mu nisam steli dat da kad bila fašista. Nisam ga puštili živiga! Da ne, sve iz Matahuna san dopejali..."
+            intervals [25]:
+                xmin = 216.976
+                xmax = 219.001
+                text = " To kavo polivaš donaca."
+            intervals [26]:
+                xmin = 231.978
+                xmax = 233.226
+                text = " to te vaši..."
+            intervals [27]:
+                xmin = 259.028
+                xmax = 260.53
+                text = " A kot je to ume..."
+            intervals [28]:
+                xmin = 261.678
+                xmax = 271.678
+                text = " Kar gledate sad toliko ča je to pasalo, to silno vreme, i danas, koliko se trviš gambija od uniput kad ste vi bili utrok i sada? Koliko se j to gambija alok?"
+            intervals [29]:
+                xmin = 271.678
+                xmax = 276.021
+                text = " A čuda je resedela lu skambijon..."
+            intervals [30]:
+                xmin = 279.059
+                xmax = 282.248
+                text = " Ni bilo upazinu, niču."
+            intervals [31]:
+                xmin = 283.16
+                xmax = 286.366
+                text = " Volim ka to dofin da voj. Ska pa san partizan!"
+            intervals [32]:
+                xmin = 286.788
+                xmax = 294.061
+                text = " da Srbi su počeli..."
+            intervals [33]:
+                xmin = 294.55
+                xmax = 296.491
+                text = " Uvali će unujat."
+            intervals [34]:
+                xmin = 297.132
+                xmax = 301.688
+                text = " delat tekstil i trikotažo i šeto se..."
+            intervals [35]:
+                xmin = 302.38
+                xmax = 304.034
+                text = " očeli i zaposli."
+            intervals [36]:
+                xmin = 305.198
+                xmax = 306.987
+                text = " Prvo je bilo dežno."
+            intervals [37]:
+                xmin = 308.843
+                xmax = 309.788
+                text = " To bi bilo..."

@@ -1,0 +1,210 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 543.73
+tiers? <exists>
+size = 1
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "miciprinc"
+        xmin = 0
+        xmax = 543.73
+        intervals: size = 49
+            intervals [1]:
+                xmin = 0.031
+                xmax = 1.33
+                text = " Da, ze ste prošli skumpi."
+            intervals [2]:
+                xmin = 1.33
+                xmax = 4.199
+                text = " Da se sve skupa, i lipe, i ružne, zdvar."
+            intervals [3]:
+                xmin = 5.38
+                xmax = 11.658
+                text = " Prvo spomenuli ste da volite i umjetno stopćenito. Kako gu glazbu volite slušat?"
+            intervals [4]:
+                xmin = 11.742
+                xmax = 21.057
+                text = " Sef, sef, sef! Ja jutro kad se diknen, obično je to po šeste ure, ja san tim ki ne more..."
+            intervals [5]:
+                xmin = 22.306
+                xmax = 23.707
+                text = " Ka podava rečem?"
+            intervals [6]:
+                xmin = 24.652
+                xmax = 31.503
+                text = " Nisan tip ki more otvorit televiziju pa djedat na televiziju cel dan."
+            intervals [7]:
+                xmin = 32.245
+                xmax = 64.223
+                text = " Moran se vrtit, moran ništo delat, i bilo ča, i meni su zimski miseci ubitačni čekajuć da pride proliće, da moren pojava vrte, da po rožicah pog, evo reću, otpletiv si do džibonija do, ne zan, bareta, radio, to san otevrstav."
+            intervals [8]:
+                xmin = 64.223
+                xmax = 75.344
+                text = " Ja, reć, na šest tur jav tvorin i dok li ne idem, obično predvečer pogljedan prve vijesti i po otjeru, ali do tad je ono neprikosnoven."
+            intervals [9]:
+                xmin = 76.829
+                xmax = 77.707
+                text = " Kabo li te tanca?"
+            intervals [10]:
+                xmin = 78.196
+                xmax = 81.723
+                text = " Vole la san jako... jako san vole, da penko."
+            intervals [11]:
+                xmin = 82.786
+                xmax = 86.836
+                text = " Iako ste va mirovili, ste dosta aktivni."
+            intervals [12]:
+                xmin = 86.836
+                xmax = 87.545
+                text = " Ma..."
+            intervals [13]:
+                xmin = 87.545
+                xmax = 90.346
+                text = " O, ako..."
+            intervals [14]:
+                xmin = 91.122
+                xmax = 95.054
+                text = " Min ni nisan posebno društveno aktivna."
+            intervals [15]:
+                xmin = 96.117
+                xmax = 106.039
+                text = " Ali volin poć pogledat, poslušati, vidit ča se događa va čitaonici, va knjižnici."
+            intervals [16]:
+                xmin = 106.394
+                xmax = 108.098
+                text = " va muzeu,"
+            intervals [17]:
+                xmin = 109.297
+                xmax = 121.936
+                text = " Bilo ki događaji se obavljaju. Volin poć viditi. Tako da nisan direktno aktivna, ali sudjelujen ko..."
+            intervals [18]:
+                xmin = 122.24
+                xmax = 124.467
+                text = " Gledat el, bin tako reć."
+            intervals [19]:
+                xmin = 124.467
+                xmax = 131.47
+                text = " I slušat te ljutine kin manifestacijama ke se događaju. Kako da nas govore ljudi vanovo?"
+            intervals [20]:
+                xmin = 131.926
+                xmax = 132.854
+                text = " Mi kako."
+            intervals [21]:
+                xmin = 134.761
+                xmax = 153.037
+                text = " Nikako. Zato jer se pomišava čakavica i narječa ljudi ki su prišli. Tako da se, u odnosu na stari novjanski, novjanski govor se potpuno zgubi."
+            intervals [22]:
+                xmin = 153.256
+                xmax = 155.45
+                text = " potpuno imaju, opet ću reć."
+            intervals [23]:
+                xmin = 155.45
+                xmax = 155.973
+                text = " Ča se..."
+            intervals [24]:
+                xmin = 167.583
+                xmax = 168.359
+                text = " Ja sto žen mo..."
+            intervals [25]:
+                xmin = 181.876
+                xmax = 182.484
+                text = " Da, su guje."
+            intervals [26]:
+                xmin = 202.244
+                xmax = 202.851
+                text = " Tako jasno je."
+            intervals [27]:
+                xmin = 208.403
+                xmax = 247.3
+                text = " Ča san otela ja ništo reć ča se toga tiđe? ki, hvala Bogu da je, čakavski jezik priznat. "
+            intervals [28]:
+                xmin = 248.043
+                xmax = 249.764
+                text = " E..."
+            intervals [29]:
+                xmin = 249.967
+                xmax = 268.226
+                text = " Razika je među crkveničke i novljanske čakavštine. Onda je on bil rekav"
+            intervals [30]:
+                xmin = 269.339
+                xmax = 279.751
+                text = " Belo je, ali mliko. Znači, i je, a va čekvenici su ve. Tako da gubi se, gubi se, iako je..."
+            intervals [31]:
+                xmin = 280.983
+                xmax = 300.76
+                text = " Pred dvajset let va novon dva poznata novljana, na žalost obad vas, u dvitiljade i treći, izdan rijek... obad vas su umrli, to su braća ko zarići nadimstvom, inače su soko lići gojko i osip, jelo siko. Da."
+            intervals [32]:
+                xmin = 302.11
+                xmax = 319.036
+                text = " napravili rješćik čakatskog govora novoga, vjerojatno uspoznaji da se gubi, i to j bil, znan, kad su s tatun razgovara, ali muko trp."
+            intervals [33]:
+                xmin = 319.323
+                xmax = 322.394
+                text = " Oto. Muko trpan ovaj..."
+            intervals [34]:
+                xmin = 322.782
+                xmax = 346.019
+                text = " Muhotrpno delo dok mi su skupili većinu novljanskoga čakarskih besed, i to su kašnje štampalji. Hvala ji na tomu! Evo, to je hvale vredan, gotovo bin reć najvjerniji dokument novljanskoga govora."
+            intervals [35]:
+                xmin = 346.508
+                xmax = 347.031
+                text = " Hvala."
+            intervals [36]:
+                xmin = 347.605
+                xmax = 348.145
+                text = " Da."
+            intervals [37]:
+                xmin = 348.449
+                xmax = 351.031
+                text = " A da mislite da je novi..."
+            intervals [38]:
+                xmin = 352.212
+                xmax = 361.308
+                text = " ne sad, ali recimo kad je bilo više onih ki su govorili baš na ovljansku čakavicu, dal je bil spečisičan u odnosu na...ne sad, si kvenič ki je ekan!"
+            intervals [39]:
+                xmin = 361.308
+                xmax = 362.051
+                text = " Da, da, da."
+            intervals [40]:
+                xmin = 367.315
+                xmax = 390.957
+                text = " Pa gledajte, ja stvarno ne znan kuliko upoređivat, kuliko su bili različiti, a kuliko su bili slični. Kad govorin s ljudima iz našega kraja ki čakaju, meni se čini da si jenako govorimo, ali sigurno da svaki ima svoje karakteristike."
+            intervals [41]:
+                xmin = 401.453
+                xmax = 412.456
+                text = " Punta P to je broš. Po pićah to je žarač za ovaj. Svitice, to su do njega ćemo..."
+            intervals [42]:
+                xmin = 420.691
+                xmax = 433.347
+                text = " Ne znan ča bi mi sad palo napamet još uglavnom tih nikakovih specifičnih ke kad rečeš nekomu ča je znan stribljaj, isto te razumi, isto će ti reć ko ča mi vi sad dovorite i potiče."
+            intervals [43]:
+                xmin = 433.347
+                xmax = 451.926
+                text = " I poli nas. Tako da, mislin, sakon mestu iman svoje specifičnosti, ali morda malo drugačije, ali ipak isto značenje imaju u govoru."
+            intervals [44]:
+                xmin = 452.888
+                xmax = 464.33
+                text = " A ča san vas johtela vezan uz govor dal, recimo kad ste šli na fakultet. I kroz školovanje ste uglavnom nekakovon standard non hrvatskon."
+            intervals [45]:
+                xmin = 464.33
+                xmax = 465.933
+                text = " Da, na jeziku govore."
+            intervals [46]:
+                xmin = 468.852
+                xmax = 469.021
+                text = " Da."
+            intervals [47]:
+                xmin = 513.74
+                xmax = 514.618
+                text = " A na delu?"
+            intervals [48]:
+                xmin = 514.972
+                xmax = 518.921
+                text = " A na delu... ja san vano von valip ča kada..."
+            intervals [49]:
+                xmin = 520.304
+                xmax = 540.756
+                text = " Kad bin videla da čovik... odnosno, već san vanikla da va njiput bilo puno ljudi, hitu su bili ljudi ki su i prišli i nisu razumeli, tako onda bin u određenoj situaciji videla oću štokat ali čakat ali s ljudimi za ke san znala da su tu. "

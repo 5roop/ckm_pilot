@@ -1,0 +1,126 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 163.773
+tiers? <exists>
+size = 1
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "miciprinc"
+        xmin = 0
+        xmax = 163.773
+        intervals: size = 28
+            intervals [1]:
+                xmin = 2.225
+                xmax = 13.727
+                text = " Da... sad ćete mi povedat... vi ste doma... prvo ste rekli da hodili ste u talijansko šolo, a sad... vi zna... trviški govor je malo drugači..."
+            intervals [2]:
+                xmin = 13.727
+                xmax = 23.727
+                text = " drugajči nego govor od teh seli iz naše župe. Kako ste, kako bite morali povedat, koliko je ta naš govor drugajči od uneh odozdola? Kako ste se prepustili?"
+            intervals [3]:
+                xmin = 23.727
+                xmax = 26.981
+                text = " A čuda stvar je, a smo drugače zvali."
+            intervals [4]:
+                xmin = 27.655
+                xmax = 29.478
+                text = " Reći mo mi, mo..."
+            intervals [5]:
+                xmin = 30.119
+                xmax = 37.544
+                text = " Dovedis semo? Dovedis simo? Or, kadi si bija? Kade si bi?"
+            intervals [6]:
+                xmin = 38.422
+                xmax = 40.396
+                text = " O to tako smo govorili."
+            intervals [7]:
+                xmin = 41.037
+                xmax = 42.775
+                text = " velika razlika samo u tegnički."
+            intervals [8]:
+                xmin = 46.977
+                xmax = 49.745
+                text = " za druge... Mirat..."
+            intervals [9]:
+                xmin = 50.2
+                xmax = 51.938
+                text = " da bu un čiso talijanski."
+            intervals [10]:
+                xmin = 54.335
+                xmax = 55.955
+                text = " Jeran ti dali druga ajće..."
+            intervals [11]:
+                xmin = 56.917
+                xmax = 59.415
+                text = " Trvi žani i oni čuda stvari."
+            intervals [12]:
+                xmin = 68.341
+                xmax = 70.501
+                text = " drugače besede."
+            intervals [13]:
+                xmin = 71.463
+                xmax = 73.252
+                text = " pa ni čuda velike razlike."
+            intervals [14]:
+                xmin = 73.471
+                xmax = 74.703
+                text = " Ja nis, neši se..."
+            intervals [15]:
+                xmin = 75.209
+                xmax = 85.209
+                text = " brez sobne dica vaše, vašnjaki, trvižani, vi ste svi govorili po trviške, a ti odozdola nisu posujali. Dali ste se kad tako škercali ki lepše govori? Dali su van se oni kad"
+            intervals [16]:
+                xmin = 85.209
+                xmax = 86.633
+                text = " A gada ste se rad podsmihili?"
+            intervals [17]:
+                xmin = 87.865
+                xmax = 103.542
+                text = " Tak si morav, kad su svi sretni, si morav dalijanski, a kad ne, po Hrvatsku, po to našo. Kad ćeš doć, to... donisi mo... Mhm. A dobro."
+            intervals [18]:
+                xmin = 103.913
+                xmax = 110.191
+                text = " A dali su vaši mat...vaša mater je bila iz spoja, kako je u na... Čekav vala."
+            intervals [19]:
+                xmin = 110.917
+                xmax = 114.596
+                text = " So vaši matiju tad steši govorili po trviški, ili..."
+            intervals [20]:
+                xmin = 116.873
+                xmax = 118.257
+                text = " nci jo bedrugajci."
+            intervals [21]:
+                xmin = 129.547
+                xmax = 130.897
+                text = " da, da, ja, ja..."
+            intervals [22]:
+                xmin = 133.225
+                xmax = 138.659
+                text = " Kako ste se vi navadili po trviški govorit? Van je ma ti spoja. S ken ste vićakulari doma?"
+            intervals [23]:
+                xmin = 138.676
+                xmax = 139.874
+                text = " Licami, daj već!"
+            intervals [24]:
+                xmin = 140.127
+                xmax = 142.152
+                text = " Svekak viti druge dica!"
+            intervals [25]:
+                xmin = 142.658
+                xmax = 145.594
+                text = " Mi dica smo sve po drviški."
+            intervals [26]:
+                xmin = 146.168
+                xmax = 147.889
+                text = " Kako su nas stare i..."
+            intervals [27]:
+                xmin = 148.582
+                xmax = 150.978
+                text = " Vali... a škrapi..."
+            intervals [28]:
+                xmin = 162.47
+                xmax = 163.128
+                text = " Dobro."

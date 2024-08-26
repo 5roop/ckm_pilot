@@ -1,0 +1,390 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 583.454
+tiers? <exists>
+size = 1
+item []:
+    item [1]:
+        class = "IntervalTier"
+        name = "miciprinc"
+        xmin = 0
+        xmax = 583.454
+        intervals: size = 94
+            intervals [1]:
+                xmin = 12.046
+                xmax = 15.539
+                text = " Merman ih je opet istoga, moreš videt da je to..."
+            intervals [2]:
+                xmin = 24.196
+                xmax = 28.381
+                text = " Dan je malo raničit na rukine. Ča se reče dio ili dil? Kako bi se reklo va gron?"
+            intervals [3]:
+                xmin = 28.718
+                xmax = 30.102
+                text = " Del. Del, ča ne?"
+            intervals [4]:
+                xmin = 30.524
+                xmax = 32.515
+                text = " Ipak deli, vidite!"
+            intervals [5]:
+                xmin = 36.346
+                xmax = 39.687
+                text = " A, ma, vi ste ika... mi se ni on govori grobnički..."
+            intervals [6]:
+                xmin = 40.075
+                xmax = 42.623
+                text = " Ali ti rečeš levo, livo."
+            intervals [7]:
+                xmin = 44.328
+                xmax = 46.218
+                text = " I rečeš levo, kao ja."
+            intervals [8]:
+                xmin = 46.471
+                xmax = 48.833
+                text = " A trebala bi šetlivo, ako govori šikavito,"
+            intervals [9]:
+                xmin = 51.28
+                xmax = 52.461
+                text = " A to je jedno pravilo."
+            intervals [10]:
+                xmin = 53.93
+                xmax = 56.36
+                text = " Ja... Ja... Ja... Ja... Ja... Ja... Ja... Ja... Ja... Ja... Ja... Ja... Ja... Ja... Ja... Ja... Ja... Ja... Ja... Ja... Ja... Ja... Ja... Ja... Ja... Ja... Ja... Ja... Ja... Ja... Ja... Ja... Ja... Ja... Ja... Ja... Ja... Ja... Ja... Ja... Ja... Ja... Ja... Ja... Ja... Ja... Ja... Ja... Ja... Ja... Ja... Ja... Ja... Ja... Ja... Ja... Ja... Ja... Ja... Ja... Ja... Ja... Ja... Ja"
+            intervals [11]:
+                xmin = 56.545
+                xmax = 57.692
+                text = " Da."
+            intervals [12]:
+                xmin = 58.25
+                xmax = 66.012
+                text = " A ja se sjeda ča nekim je bil povedav grobniku niki lucin potok ili ča je to bila neka... Se domišljate vi te..."
+            intervals [13]:
+                xmin = 66.468
+                xmax = 71.261
+                text = " To je neka legenda bila. Ima tako nešto da se... Nema neke veće mine zvoni."
+            intervals [14]:
+                xmin = 74.129
+                xmax = 91.611
+                text = " Tamo su rečina, sušica pritok, prik, sušica pred sušicom. Znaju bujice prama motodromu, či čavka, rižinica, lužac je isto potkivavca, ali niš, niš."
+            intervals [15]:
+                xmin = 91.679
+                xmax = 94.818
+                text = " Ali ima ka legenda, recimo, ovako, neka..."
+            intervals [16]:
+                xmin = 95.122
+                xmax = 97.028
+                text = " priča da se veže za njega."
+            intervals [17]:
+                xmin = 102.226
+                xmax = 104.437
+                text = " Ne, ne, ne, ne, ne moliš se!"
+            intervals [18]:
+                xmin = 104.757
+                xmax = 110.123
+                text = " A neka vjerovanja ili nešto čega ste se bojali dok ste bili djete ili šta su..."
+            intervals [19]:
+                xmin = 112.385
+                xmax = 118.038
+                text = " A kako ste to pomali? Moj je možnost ćete malik. Eha, a kevil malik!"
+            intervals [20]:
+                xmin = 131.538
+                xmax = 133.276
+                text = " Ni bilo štrig, višći."
+            intervals [21]:
+                xmin = 134.879
+                xmax = 137.073
+                text = " Sugobar libe ima! Suhodili po noći..."
+            intervals [22]:
+                xmin = 137.09
+                xmax = 138.726
+                text = " Uša, no, no, ćete..."
+            intervals [23]:
+                xmin = 139.537
+                xmax = 140.583
+                text = " Tiganikete!"
+            intervals [24]:
+                xmin = 141.038
+                xmax = 146.961
+                text = " Najonše su nas cigani strašni. Ja, ja, dovali, stofano pokušavan se malo sjetit ono..."
+            intervals [25]:
+                xmin = 161.44
+                xmax = 169.945
+                text = " Homo dalje! Kake su van prijatelje? Su još oni iz škole ili imate neke nove ili se znate, družite i s ovima?"
+            intervals [26]:
+                xmin = 170.131
+                xmax = 173.489
+                text = " Pa, znanih znali smo... Ča delate kad se najdete?"
+            intervals [27]:
+                xmin = 174.468
+                xmax = 175.767
+                text = " Ovaj, noće los."
+            intervals [28]:
+                xmin = 176.813
+                xmax = 183.142
+                text = " 59. godišnja je moja generacija. Na želo, cvićih je dosta, dosta impokojnih."
+            intervals [29]:
+                xmin = 184.087
+                xmax = 190.398
+                text = " Bimo znali se skupit organizirat godih nju su male mature, znači da su finili ošmi rad."
+            intervals [30]:
+                xmin = 191.208
+                xmax = 197.282
+                text = " Vaš san je bil... ja ne san da li je živina vaš ko srenja niki dar ko su janovići na nje bili razredni..."
+            intervals [31]:
+                xmin = 204.978
+                xmax = 222.443
+                text = " Manje više si smo tu negder. Pomorat, ali opet, ako j tu, dojde. Manje više se kuliko tuliko nanji drago kad se vidimu."
+            intervals [32]:
+                xmin = 226.983
+                xmax = 228.012
+                text = " Pošono, narano..."
+            intervals [33]:
+                xmin = 229.48
+                xmax = 231.303
+                text = " Kolegi na delu jasanu vajviju."
+            intervals [34]:
+                xmin = 235.893
+                xmax = 240.719
+                text = " Rečen je ali i još novat o nekon kontaktu i s kolegami ki su, mada jih je već se..."
+            intervals [35]:
+                xmin = 241.664
+                xmax = 243.064
+                text = " Njih prohvali."
+            intervals [36]:
+                xmin = 244.094
+                xmax = 245.697
+                text = " Tako, maramo..."
+            intervals [37]:
+                xmin = 246.254
+                xmax = 249.224
+                text = " Najdražit su ti prijatelji s djetinjstvom."
+            intervals [38]:
+                xmin = 254.118
+                xmax = 255.535
+                text = " Pa, renustivan je kin ačin."
+            intervals [39]:
+                xmin = 261.627
+                xmax = 265.036
+                text = " Naravno, kad odraseš, nisi ovaj..."
+            intervals [40]:
+                xmin = 269.98
+                xmax = 278.924
+                text = " Dok mi živa, mak te još an uvik ditev. I tako da... vavik smo kako bi smo. Dobro."
+            intervals [41]:
+                xmin = 278.992
+                xmax = 287.025
+                text = " Recite mi kako se vi osobno najviše odmarate ili relaksirate, što vam čini?"
+            intervals [42]:
+                xmin = 287.632
+                xmax = 292.526
+                text = " Ili neki hobi koji imate. Spomenuli ste bili pjevanje neko i tako..."
+            intervals [43]:
+                xmin = 298.381
+                xmax = 307.054
+                text = " Po ono češkon filmu va pohumu se napravila jević petneš tak let se napravila crikva."
+            intervals [44]:
+                xmin = 307.915
+                xmax = 310.581
+                text = " Kustu je hjena je maksimilijan kolbe."
+            intervals [45]:
+                xmin = 311.223
+                xmax = 327.372
+                text = " To je bil jedan poljski plovan ki je bil va II.Siskom ratu va konč logoru. I onda se je želtovalo i streljat jednoga oča puno dice."
+            intervals [46]:
+                xmin = 328.25
+                xmax = 330.393
+                text = " Da je maksimilian kolbeda rekalo"
+            intervals [47]:
+                xmin = 331.372
+                xmax = 333.38
+                text = " Njemačkomu zapovjedni kuliki veći."
+            intervals [48]:
+                xmin = 333.43
+                xmax = 336.451
+                text = " Če da neka ubiv njega mestovoga, tijegorija..."
+            intervals [49]:
+                xmin = 336.822
+                xmax = 339.859
+                text = " Ča prova nima nikoga? On ima puno dice."
+            intervals [50]:
+                xmin = 340.248
+                xmax = 341.514
+                text = " su njega ubili mesto toga."
+            intervals [51]:
+                xmin = 342.56
+                xmax = 344.264
+                text = " a to je proglašen svet."
+            intervals [52]:
+                xmin = 345.007
+                xmax = 348.584
+                text = " Ona je dan prvo velike gospe, taj svetimak."
+            intervals [53]:
+                xmin = 349.478
+                xmax = 357.68
+                text = " Tamo je najprije bilo to va konteneru. Va konteneru ima se kasnije napravila bila crikva. Sada se čeka..."
+            intervals [54]:
+                xmin = 357.764
+                xmax = 363.08
+                text = " žvonu važnu, nikin da bi...ali lipa nova zrikva je, onako baš...mig, ono kako..."
+            intervals [55]:
+                xmin = 369.982
+                xmax = 373.931
+                text = " Te jo san bili na četu, san bili dosta dugo kako smo bivali na donjoj vežici."
+            intervals [56]:
+                xmin = 374.774
+                xmax = 381.389
+                text = " A sam bilo dosta dugo, san bilo u divožvetoj maloj Terezi, to san dosta dugo bil kantal."
+            intervals [57]:
+                xmin = 382.57
+                xmax = 387.295
+                text = " Kako san gori gren z materu, gren saku ni diorena, maš udan san me tamo isto tako. "
+            intervals [58]:
+                xmin = 388.122
+                xmax = 392.56
+                text = " Kako smo se praveli se lije na gornju vežicu, onda sam već se manje mogalo doć."
+            intervals [59]:
+                xmin = 392.982
+                xmax = 394.416
+                text = " Pasan temu se malo aktivisam."
+            intervals [60]:
+                xmin = 395.243
+                xmax = 397.099
+                text = " A inače, davno kad san biv mladić, mi je bilo"
+            intervals [61]:
+                xmin = 397.184
+                xmax = 409.874
+                text = " hobby letenje na zrašnjike drili san gori na ajeroklubu na grobišćini. Tako ono. Motociklizan, niki tako ono... Spomenuli ste i nogometar."
+            intervals [62]:
+                xmin = 410.11
+                xmax = 412.54
+                text = " Vratite nogo metra. Pa, da..."
+            intervals [63]:
+                xmin = 413.047
+                xmax = 417.401
+                text = " Netko van se obitelji bavi onoga, me tam koji, a što... Pa, mađi sinje bi."
+            intervals [64]:
+                xmin = 417.417
+                xmax = 421.94
+                text = " bil komićeri va orijentu do senjori."
+            intervals [65]:
+                xmin = 422.378
+                xmax = 423.812
+                text = " Kaš mog da mi jih stano pratili."
+            intervals [66]:
+                xmin = 424.454
+                xmax = 425.585
+                text = " da je žena više."
+            intervals [67]:
+                xmin = 426.378
+                xmax = 429.027
+                text = " zapaljeno za sport i nogo mi tašenje zimu."
+            intervals [68]:
+                xmin = 436.942
+                xmax = 438.528
+                text = " je zimbran tonu, pa je ono bilar..."
+            intervals [69]:
+                xmin = 446.864
+                xmax = 449.598
+                text = " To su skupa proživjavali lenekine..."
+            intervals [70]:
+                xmin = 450.374
+                xmax = 452.314
+                text = " Nadekin je na sin dobro."
+            intervals [71]:
+                xmin = 452.669
+                xmax = 454.205
+                text = " To je vaš omijena ekipa!"
+            intervals [72]:
+                xmin = 454.947
+                xmax = 457.394
+                text = " Isto, sportu de amore no gomit. Ča no gorit?"
+            intervals [73]:
+                xmin = 457.411
+                xmax = 459.065
+                text = " Pa, oč za boćarsku imat. Pa, oč za boćarsku imat."
+            intervals [74]:
+                xmin = 459.082
+                xmax = 460.094
+                text = " Ča znaš?"
+            intervals [75]:
+                xmin = 460.448
+                xmax = 461.782
+                text = " Prika, ajde!"
+            intervals [76]:
+                xmin = 462.17
+                xmax = 464.752
+                text = " Mada nis neki ni va armadi ni nečali."
+            intervals [77]:
+                xmin = 468.447
+                xmax = 475.94
+                text = " Ma števeni niš pa na radiju poslušan. Evo, ku ne kađa kako su judi dok ni bilo te levizije, i dana da nas voli."
+            intervals [78]:
+                xmin = 482.774
+                xmax = 486.537
+                text = " Riku, kad igraju s kajdukon ili zinom. Pa ne! Ne! Ne!"
+            intervals [79]:
+                xmin = 487.263
+                xmax = 489.372
+                text = " Dobro matut, ajde, si su tu ti!"
+            intervals [80]:
+                xmin = 489.76
+                xmax = 490.908
+                text = " no no, rivastu i tako..."
+            intervals [81]:
+                xmin = 491.448
+                xmax = 494.097
+                text = " Bivi smo, znali smo nekate poći na, na, na utar."
+            intervals [82]:
+                xmin = 494.367
+                xmax = 497.438
+                text = " Narujiv tje ni smo bili u čunikama. Nicom kad su bili manji. "
+            intervals [83]:
+                xmin = 497.692
+                xmax = 500.24
+                text = " Bali smo baš i sjećan jedanput smo bili šli..."
+            intervals [84]:
+                xmin = 500.695
+                xmax = 502.028
+                text = " Kaj dukon su bili igrali?"
+            intervals [85]:
+                xmin = 502.754
+                xmax = 506.517
+                text = " pa smo došli tu kasnili smo bili, pa smo došli na istočnu tribinu,"
+            intervals [86]:
+                xmin = 507.023
+                xmax = 508.39
+                text = " Druge trane va gajbi su"
+            intervals [87]:
+                xmin = 522.295
+                xmax = 535.137
+                text = " Na pulo vrimena smo prosi ća, prosi smo ća su prosi, aš to je bilo berut, ondašnji. I posli smo slušali na radiju da je prekinuta ta bica bila. Prekinuta je bila to, tako da..."
+            intervals [88]:
+                xmin = 535.694
+                xmax = 539.626
+                text = " Nego su dici bili oduševljeni gredu na utakmicu s hajdukonom."
+            intervals [89]:
+                xmin = 540.065
+                xmax = 542.157
+                text = " a imeli su šale odbelike za vrat."
+            intervals [90]:
+                xmin = 549.768
+                xmax = 561.159
+                text = " To čega me... Lako naša dostaje... ...taj...taj...taj...nogo mi će vavit je...na koji...ne znan zač...zač to...vaj..."
+            intervals [91]:
+                xmin = 563.842
+                xmax = 566.272
+                text = " Vaš mu da nas mostari nsinu s mom komentirali."
+            intervals [92]:
+                xmin = 566.542
+                xmax = 568.044
+                text = " ali vaja je da bivane ka mladu."
+            intervals [93]:
+                xmin = 568.668
+                xmax = 574.135
+                text = " Da... ne znam... to..."
+            intervals [94]:
+                xmin = 574.507
+                xmax = 576.026
+                text = " Da, da, ča jaz nan?"
