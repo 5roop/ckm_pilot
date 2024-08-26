@@ -18,7 +18,7 @@ except NameError:
     txt_outpath = "brisi_out.txt"
 
 tg = textgrids.TextGrid(tg_path)
-
+xmax = tg.xmax
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 model_id = "classla/whisper-large-v3-mici-princ"
 model = AutoModelForSpeechSeq2Seq.from_pretrained(
@@ -57,5 +57,6 @@ tg["mići princ"] = textgrids.Tier(
         for i in chunks
     ]
 )
+tg.xmax = xmax
 tg.write(tg_outpath)
 Path(txt_outpath).write_text(" ".join([i["text"] for i in chunks]))

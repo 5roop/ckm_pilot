@@ -1,4 +1,4 @@
 .snakemake/*
-brisi
+brisi*
 *.wav
 data/*
